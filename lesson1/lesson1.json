@@ -20,7 +20,44 @@
     "groundRestitution": 0,
     "wallRestitution": 0.1,
     "restartAnimationOnRun": false,
-    "objects": [],
+    "objects": [
+      {
+        "type": "box",
+        "position": [
+          48,
+          12,
+          1.5
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          4,
+          4,
+          3
+        ],
+        "modelURL": "",
+        "modelScale": 10,
+        "modelAnimation": "None",
+        "color": "#ff00d0ff",
+        "imageType": "repeat",
+        "imageURL": "",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "moveable",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": false,
+        "castShadows": false,
+        "isPickable": true
+      }
+    ],
     "startPos": "center",
     "startPosXYZStr": "",
     "startRotStr": "",
