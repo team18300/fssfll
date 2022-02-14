@@ -49,9 +49,9 @@
         "imageURL": "",
         "uScale": 1,
         "vScale": 1,
-         "physicsOptions": {
+        "physicsOptions": {
           "mass": 400,
-          "friction": 0.5,
+          "friction": 0.5
         },
         "magnetic": false,
         "laserDetection": null,
