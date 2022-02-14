@@ -1,7 +1,7 @@
 {
   "worldName": "custom",
   "options": {
-    "imageURL": "https://kmortime.github.io/gears_pybricks/public/textures/maps/images/spring_training.jpg",
+    "imageURL": "https://fssfll.github.io/fssfll/images/game_mat/spring_training.jpg",
     "groundType": "box",
     "length": 100,
     "width": 100,
