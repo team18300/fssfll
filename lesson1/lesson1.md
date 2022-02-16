@@ -1,7 +1,7 @@
 # Lesson #1: Create and Simulate Your First Python Program
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2BogIjEfSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yr5yAB4Nweo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 1. In a different browser window or browser tab start the simulator: [Launch FSS FLL Simulator: LESSON 1](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flesson1%2Flesson1.json)
