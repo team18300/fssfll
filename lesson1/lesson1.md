@@ -24,8 +24,8 @@
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
   * Use the code in the example below to attempt to move the purple cube into the M08 circle.
-    * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
-    * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
+  * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
+  * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
   * Now try to add your own code using the .straight() and .turn() methods to move the orange cube into the M09 circle.
   * Continue to simulate and change your program until the purple cube is in the M08 circle and the orange cube is in the M09 circle.
 
