@@ -20,7 +20,7 @@
   * Your mission is to move one cube into the M08 Food circle one into the M09 Regolith circle.
 
 <p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.html" title="Robot Drive Straight" frameborder="0" </iframe>
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.html" title="Robot Drive Straight" frameborder="0"> </iframe>
 </p>
 
 3. Now it is time to create your python program!
