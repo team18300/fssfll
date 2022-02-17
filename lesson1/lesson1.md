@@ -18,7 +18,11 @@
   * Click on the "Follow" camera icon in the upper right to toggle the camera style between "Follow," "Top" and "Arc."  You can use the right and middle mouse buttons to move the camera around.
   * Inspect the game board.  The virtual robot is in the lower right start area quarter circle.  There are two movable cubes on the game table.
   * Your mission is to move one cube into the M08 Food circle one into the M09 Regolith circle.
-   
+
+<p align="center">
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.md" title="Robot Drive Straight" frameborder="0" </iframe>
+</p>
+
 3. Now it is time to create your python program!
   * In the simulator click on the **Python Menu** and select **Pybricks Mode**
   * Click on the **Python Tab**
