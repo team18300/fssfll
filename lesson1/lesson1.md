@@ -20,16 +20,16 @@
   * Your mission is to move one cube into the M08 Food circle one into the M09 Regolith circle.
 
 <p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/add_comments.html" title="Adding Comments" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/add_comments.html" title="Adding Comments" border: 1px solid black;> </iframe>
 </p>
 <p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/print_console.html" title="Print to Console" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/print_console.html" title="Print to Console" border: 1px solid black;> </iframe>
 </p>
 <p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.html" title="Robot Drive Straight" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.html" title="Robot Drive Straight" border: 1px solid black;> </iframe>
 </p>
 <p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/tank_turn.html" title="Robot Tank Turn" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/tank_turn.html" title="Robot Tank Turn" border: 1px solid black;> </iframe>
 </p>
 
 3. Now it is time to create your python program!
