@@ -1,10 +1,14 @@
 # Lesson #1: Create and Simulate Your First Python Program
 
+Lesson Plan:
+1. Watch the lesson plan video below
+2. Follow the instructions to complete the assignment
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yr5yAB4Nweo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-1. In a different browser window or browser tab start the simulator: [Launch FSS FLL Simulator: LESSON 1](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flesson1%2Flesson1.json)
+### 1. In a different browser window or browser tab start the simulator: [Launch FSS FLL Simulator: LESSON 1](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flesson1%2Flesson1.json)
   * Once in the simulator, navigate between programming and running the bot using the menu tabs in the upper left.  Try navigating between the menu options.
   * **Blocks Tab:** Allows for using Scratch like programming blocks to build a Python program.  
   * **Python Tab:** This is the python program run by the simulator.  You can write your Python program right in the browser or you can load it using the "File->Load Python from your computer" menu.  Python programs can also be saved back to your computer using the "File->Save Python to your computer" option.
@@ -14,35 +18,22 @@
   * **Robot Menu:** Use this to select your robot.  For this lesson, the default robot "FSS FLL Single Sensor Line Follower" is selected already.
   * **Worlds Menu:** Use this to select the game table.  For this lesson the game table is selected already.
 
-2. Navigate to the "Simulator" tab.  
+### 2. Navigate to the "Simulator" tab.  
   * Click on the "Follow" camera icon in the upper right to toggle the camera style between "Follow," "Top" and "Arc."  You can use the right and middle mouse buttons to move the camera around.
   * Inspect the game board.  The virtual robot is in the lower right start area quarter circle.  There are two movable cubes on the game table.
   * Your mission is to move one cube into the M08 Food circle one into the M09 Regolith circle.
 
-<p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/add_comments.html" title="Adding Comments" border: 1px solid black;> </iframe>
-</p>
-<p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/print_console.html" title="Print to Console" border: 1px solid black;> </iframe>
-</p>
-<p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/drive_straight.html" title="Robot Drive Straight" border: 1px solid black;> </iframe>
-</p>
-<p align="center">
-<iframe width="560" height="315" src="https://fssfll.github.io/fssfll/howto/tank_turn.html" title="Robot Tank Turn" border: 1px solid black;> </iframe>
-</p>
-
-3. Now it is time to create your python program!
+### 3. Create a Python Program to solve the M08 Mission
   * In the simulator click on the **Python Menu** and select **Pybricks Mode**
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
   * Use the code in the example below to attempt to move the purple cube into the M08 circle.
   * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
   * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
-  * Now try to add your own code using the .straight() and .turn() methods to move the orange cube into the M09 circle.
-  * Continue to simulate and change your program until the purple cube is in the M08 circle and the orange cube is in the M09 circle.
+### 4. Now add to the program using the .straight() and .turn() methods to move the orange cube into the M09 circle and return to home
+  * Use the comments in "Part 2" below as a guide.  Add one or more lines of code below each comment. 
 
-5. After Creating the program, save it to your computer using the *File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
+### 5. After Creating the program, save it to your computer using the *File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
 
 ```python
 #!/usr/bin/env pybricks-micropython
