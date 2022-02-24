@@ -24,7 +24,22 @@
   * Inspect the game board.  The virtual robot is in the lower right start area quarter circle.  There are two movable cubes on the game table.
   * Your mission is to move one cube into the M08 Food circle one into the M09 Regolith circle.
 
+
+
 ### 3. Create a Python Program to solve the M08 Mission
+  * To complete this mission you will use the .straight() and .turn() methods to move the robot shown in the animations below.
+  
+<p align="center">
+<TABLE>
+<TR>
+<TD>
+<img width="400" height="1">
+<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lesson1/robot_straight.gif"><IMG ALIGN="RIGHT" SRC="https://fssfll.github.io/fssfll/lesson1/robot_turn.gif">
+</TD>
+</TR>
+</TABLE>
+ </P>
+ 
   * In the simulator click on the **Python Menu** and select **Pybricks Mode**
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
