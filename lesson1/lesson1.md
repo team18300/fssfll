@@ -1,6 +1,6 @@
 # Lesson #1: Create and Simulate Your First Python Program
 
-###Lesson Plan:
+### Lesson Plan:
 1. Watch the lesson plan video below
 2. Follow the instructions to complete the assignment.  Be sure to complete all the steps!
 3. Show or share the completed assignment with a mentor
@@ -34,7 +34,7 @@
 ### 4. Now add to the program using the .straight() and .turn() methods to move the orange cube into the M09 circle and return to home
   * Use the comments in "Part 2" below as a guide.  Add one or more lines of code below each comment. 
 
-### 5. After Creating the program, save it to your computer using the *File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
+### 5. After Creating the program, save it to your computer using the **File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
 
 ```python
 #!/usr/bin/env pybricks-micropython
