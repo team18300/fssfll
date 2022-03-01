@@ -11,6 +11,7 @@
   * A code comment is a text note added to source code to provide information, usually about the function of the code.
   * A comment in Python starts with the hash character, # and extends to the end of the line.
   * An example Python comment is shown below
+
 ```python
 # This entire line is a Python comment
 # Comments are a great way to let other people know how your program works
@@ -56,8 +57,11 @@ print("Speed= " + str(speed) + " mm/Second")
  wait(3500)
  print("The program continues...")
  ```
+
 ## Now it is your turn!
+
 ### 1. In a different browser window or browser tab start the simulator: 
+
   * [Launch FSS FLL Simulator: LESSON 2](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flesson1%2Flesson1.json)
   * Make sure you are in Python "Pybricks Mode"
 
