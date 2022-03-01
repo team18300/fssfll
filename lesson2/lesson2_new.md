@@ -1,13 +1,10 @@
-# Lesson #1: Debugging Your Code
+# Debugging Your Code
 
 ## Lesson Plan:
 1. Watch the lesson plan video below
 2. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
 3. Show or share the completed assignment with a mentor
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yr5yAB4Nweo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 ## Tools you can use to debug your code
 
 ### Code Comments
