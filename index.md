@@ -35,9 +35,10 @@ To run on an EV3, you'll need the following:
 - [Changing Speed Using the Drivebase Settings](./lessons/drivebase_settings/drivebase_settings.md) : Use the drivebase settings to change the speed of your robot
 - [Code Debugging](./lessons/debugging/debugging.md) : How to debug your python program
 - [Code Loops](./lessons/loops/loops.md) : Learn how to use a code loop to perform a repeated action
-- TBD - Using loops to drive on a curve and line follow
+- [Driving Using Code Loops](./lessons/driving_with_loops/driving_with_loops.md) : Using loops to drive on a curve and line follow
 - [First Python Program on the EV3](./lesson2/lesson2.md) : Use the EV3 robot write a python script to move blocks into scoring areas
 - TBD - Using the EV3 display
+- TBD - Using the EV3 buttons to select a python program
 
 ## Additional How-To's:
 - [Rename the EV3 Robot](./rename/rename.md) : Use SSH in Visual Studio Code to give the EV3 robot a unique name.
