@@ -30,22 +30,24 @@ To run on an EV3, you'll need the following:
 
 - Bluetooth: Other ev3 Python users have reported that Bluetooth is not reliable and is therefore not currently recommended.
 
-## Lessons
+## Lessons:
 - [Create Your First Python Program](./lessons/lesson1/lesson1.md) : Using the simulator write a python script to move virtual blocks into scoring areas
+- [Changing Speed Using the Drivebase Settings](./lessons/drivebase_settings/drivebase_settings.md) : Use the drivebase settings to change the speed of your robot
 - [Code Debugging](./lessons/debugging/debugging.md) : How to debug your python program
-- [Lesson 2](./lesson2/lesson2.md) : Use the EV3 robot write a python script to move blocks into scoring areas
-- [Lesson 3](./lesson3/lesson3.md) : Use a new program to solve M09 using both the simulator and real-world EV3 bot.
+- [Code Loops](./lessons/loops/loops.md) : Learn how to use a code loop to perform a repeated action
+- TBD - Using loops to drive on a curve and line follow
+- [First Python Program on the EV3](./lesson2/lesson2.md) : Use the EV3 robot write a python script to move blocks into scoring areas
+- TBD - Using the EV3 display
+
+## Additional How-To's:
 - [Rename the EV3 Robot](./rename/rename.md) : Use SSH in Visual Studio Code to give the EV3 robot a unique name.
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
+
 ## Code Repo
 Github Repo for FSS Python code:
 https://github.com/kmortime/fss_fll_python/
 
-
-A EV3 robot simulation can be used to create python scripts and try them out on virtual robot.
-
 ### Additional Details:
 This simulation above is a clone of the [https://github.com/kendmaclean/gears_pybricks/](https://github.com/kendmaclean/gears_pybricks/) repository which itself is a fork of the [https://github.com/QuirkyCort/gears](https://github.com/QuirkyCort/gears) repository initially created by the great people at [https://www.aposteriori.com.sg/](https://www.aposteriori.com.sg/)
 ## More Resources
-
 * [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
