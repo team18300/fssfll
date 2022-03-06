@@ -20,6 +20,7 @@ TBD
  * Using the **drive()** method inside a while loop allows you to control the distance.
  * Let's try an example.
  * Start the [FSS FLL Simulator: Line Following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdriving_with_loops%2Flinefollowing.json)
+
 ```python
 # Create and define distance, speed, and turn variables
 # to control how fast the robot moves, how sharp it turns, and how far it will go.
