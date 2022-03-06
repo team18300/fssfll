@@ -46,11 +46,14 @@ while (count <= 3):
 * There are just a few programming rules which need to be followed (this is called **syntax**) which needs to be followed for the loop to make sense.
 * Let's take a look at them using the example above.
 * The while loop and condition tested must be followed by a colon **:**
+
 ```python
 while (count <= 3):
 ```
+
 * All the lines in the block of code that you want to run repeatedly must be indented by the same amount of spaces.
 * In the example below, we can set the variable count back to 1 after the loop runs.
+
 ```python
 while (count <= 3):
     # Print to the console the number followed by  ...ah... ah... ah...
@@ -63,6 +66,7 @@ while (count <= 3):
 # Set count back to 1.  This is not indented and would not be part of the while loop above.
 count = 1
 ```
+
 * You must follow the correct programming rules (syntax) for you program to run! 
 
 ## Now it is your turn!
