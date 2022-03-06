@@ -44,7 +44,7 @@ robot.settings(straight_speed=250, straight_acceleration=100, turn_rate=100, tur
 robot.straight(-300)
 ```
  * Try changing the speed.  Note that there are limits to how fast the robot's motors can move.
- * Add a **robot.turn()** method and try changing the turn angle.  
+ * Add a **robot.turn()** method and try changing the turn angle rate.  
  * Generally it is not a good idea to run the motors at full speed as the accuracy of the robot decreases the faster you go.
 
 ## Now it is your turn!
