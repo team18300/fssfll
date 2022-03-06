@@ -1,9 +1,8 @@
 # Changing Speed By Using the Drivebase Settings
 
 ## Lesson Plan:
-1. Watch the lesson plan video below
-2. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
-3. Show or share the completed assignment with a mentor
+1. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
+2. Show or share the completed assignment with a mentor
 
 <p align="center">
 TBD
