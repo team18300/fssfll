@@ -9,7 +9,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yr5yAB4Nweo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-### 1. In a different browser window or browser tab start the simulator: [Launch FSS FLL Simulator: LESSON 1](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flesson1%2Flesson1.json)
+### 1. In a different browser window or browser tab start the simulator: 
+[Launch FSS FLL Simulator: LESSON 1](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2lesson1%2Flesson1.json)
   * Once in the simulator, navigate between programming and running the bot using the menu tabs in the upper left.  Try navigating between the menu options.
   * **Blocks Tab:** Allows for using Scratch like programming blocks to build a Python program.  
   * **Python Tab:** This is the python program run by the simulator.  You can write your Python program right in the browser or you can load it using the "File->Load Python from your computer" menu.  Python programs can also be saved back to your computer using the "File->Save Python to your computer" option.
@@ -33,19 +34,20 @@
 <TABLE>
 <TR>
 <TD>
-<img width="400" height="1">
-<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lesson1/robot_straight.gif"><IMG ALIGN="RIGHT" SRC="https://fssfll.github.io/fssfll/lesson1/robot_turn.gif">
+<img width="600" height="1"><BR>
+<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lessons/lesson1/robot_straight.gif"><IMG ALIGN="RIGHT" SRC="https://fssfll.github.io/fssfll/lessons/lesson1/robot_turn.gif">
 </TD>
 </TR>
 </TABLE>
  </P>
  
-  * In the simulator click on the **Python Menu** and select **Pybricks Mode**
+  * In the simulator click on the **Python Menu** and make sure **Pybricks Mode** is selected
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
   * Use the code in the example below to attempt to move the purple cube into the M08 circle.
   * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
   * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
+
 ### 4. Now add to the program using the .straight() and .turn() methods to move the orange cube into the M09 circle and return to home
   * Use the comments in "Part 2" below as a guide.  Add one or more lines of code below each comment. 
 
