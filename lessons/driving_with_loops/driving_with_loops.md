@@ -19,7 +19,7 @@ TBD
  * Using the **drive()** method by itself will make your robot drive in circles until you press the stop button or the batteries run out!
  * Using the **drive()** method inside a while loop allows you to control the distance.
  * Let's try an example.
- * Start the [FSS FLL Simulator](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+ * Start the [FSS FLL Simulator: Line Following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdriving_with_loops%2Flinefollowing.json)
 ```python
 # Create and define distance, speed, and turn variables
 # to control how fast the robot moves, how sharp it turns, and how far it will go.
@@ -57,13 +57,11 @@ while (robot.distance() <= distance):
 robot.stop()
 ```
 
-
-
 ## Now it is your turn!
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
-  * [Launch FSS FLL Simulator: LESSON 2](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+  * [Launch FSS FLL Simulator: Line Following Challenge](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdriving_with_loops%2Flinefollowing2.json)
   * Make sure you are in Python "Pybricks Mode"
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"
@@ -103,42 +101,31 @@ robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, tur
 #-----------------------------------------------------------
 #                           PART 1
 #
-# Example of using print, comments, and the wait() method
+# The variables are defined for you here.
 #-----------------------------------------------------------
-# Example print message
-print("Hello World!")
+# Create and define a proportional gain variable for line following
+pd = -0.8
 
-# Pause the program for half a second
-print("Pausing the program for half a second")
-wait(500)
+# Create and define distance and speed variables
+distance = 1000
+speed = 100
 
-# Continuing the program
-print("The program resumes...")
+print("pd = " + str(pd))
+print("distance = " + str(distance))
+print("speed = " + str(speed))
+
 
 #-----------------------------------------------------------
 #                           PART 2
 #
-# Now it is your turn to add on to the program.
-# Use the robot.straight() methods to move foward,
-# then wait for 5 seconds, then move backwards to return home.
-# Use print() to display on the console what your robot is doing
+# Use the variables above to create a line following program
 #-----------------------------------------------------------
 
+# Add a while loop like shown in the lesson example and
+# adjust the variables to complete the mission.
 
-# Use print() to say your robot will move forward
 
-# Use robot.straight() to move forward
-
-# Use print() to say you are waiting for 5 seconds
-
-# Use wait() to pause for 5 seconds.  Try commenting out the wait() to remove the pause.
-
-# Use print() to say your robot will move backwards
-
-# Use robot.straight() to move backwards
-
-# Use print() to say mission accomplished and you've returned to base!
-
+# Stop the robot
 
 ```
 
