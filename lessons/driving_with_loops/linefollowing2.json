@@ -9,7 +9,7 @@
     "vScale": 1,
     "imageScale": 2,
     "timer": "down",
-    "timerDuration": 60,
+    "timerDuration": 120,
     "timerEnd": "stopTimer",
     "wall": true,
     "wallHeight": 7.7,
@@ -21,42 +21,6 @@
     "wallRestitution": 0.1,
     "restartAnimationOnRun": false,
     "objects": [
-      {
-        "type": "box",
-        "position": [
-          31.548923187034838,
-          0.5061437786322838,
-          5.232915192250399
-        ],
-        "rotationMode": "degrees",
-        "rotation": [
-          0,
-          0,
-          0
-        ],
-        "animationMode": "none",
-        "animationKeys": [],
-        "size": [
-          10,
-          23,
-          10
-        ],
-        "modelURL": "",
-        "modelScale": 10,
-        "modelAnimation": "None",
-        "color": "#80E680",
-        "imageType": "repeat",
-        "imageURL": "",
-        "uScale": 1,
-        "vScale": 1,
-        "physicsOptions": "fixed",
-        "magnetic": false,
-        "laserDetection": null,
-        "ultrasonicDetection": null,
-        "receiveShadows": false,
-        "castShadows": false,
-        "isPickable": true
-      },
       {
         "type": "box",
         "position": [
