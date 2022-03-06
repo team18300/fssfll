@@ -56,7 +56,8 @@ robot.straight(-300)
  * Make sure you are in Python "Pybricks Mode"
  * Take a look at the game map in the Simulator tab
  * This is a timed trial.  Your goal is to have your bot finish at the center of the map completely behind the black and yellow striped zone before time expires.
- * When complete share your solution to a mentor or coach! 
+ * When complete share your solution to a mentor or coach.
+ * Record the time remaining on the clock at the end of the mission.  Try to get the most unused time you can!    
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"
  * You can change the code in part 1!
