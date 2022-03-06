@@ -1,7 +1,7 @@
 {
   "worldName": "linefollow",
   "options": {
-    "imageURL": "https://fssfll.github.io/gears/public/textures/maps/Line%2FFollowing/Simple.png",
+    "imageURL": "https://fssfll.github.io/gears/public/textures/maps/Line%20Following/Simple.png",
     "groundType": "box",
     "length": 100,
     "width": 100,
