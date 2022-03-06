@@ -4,9 +4,6 @@
 1. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
 2. Show or share the completed assignment with a mentor
 
-<p align="center">
-TBD
-</p>
 
 ## How to make your robot drive at different speeds
  * There are several ways to accomplish this goal.  
