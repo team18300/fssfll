@@ -1,5 +1,5 @@
 {
-  "worldName": "linefollow",
+  "worldName": "custom",
   "options": {
     "imageURL": "https://fssfll.github.io/gears/public/textures/maps/Line%20Following/Simple.png",
     "groundType": "box",
