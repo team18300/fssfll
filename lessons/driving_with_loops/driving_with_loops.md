@@ -6,7 +6,7 @@
 3. Show or share the completed assignment with a mentor
 
 <p align="center">
-TBD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Suys9L7DLio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Loops can be used for robot moevement
@@ -51,7 +51,7 @@ speed = 100
 
 while (robot.distance() <= distance):
   # The turn direction is equal to the gain x (color sensor value - 50)
-  turn_direction = pd * (color_sensor_in1.reflection() - 50)
+  turn = pd * (color_sensor_in1.reflection() - 50)
   robot.drive(speed,turn)
 
 # Stop the robot
