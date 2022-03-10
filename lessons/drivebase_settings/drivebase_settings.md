@@ -55,10 +55,10 @@ robot.straight(-300)
  * When complete share your solution to a mentor or coach.
  * Record the time remaining on the clock at the end of the mission.  Try to get the most unused time you can!    
 
-### 2. Copy in the example program below and try out the already completed "Part 1"
+### 2. Copy in the example program below and try out the already completed Part 1
  * You can change the code in part 1!
 
-### 3. Follow the instructions in the code comments below to complete "Part 2" of the assignment
+### 3. Follow the instructions in the code comments below to complete Part 2 of the assignment
 
 
 ```python
