@@ -3,7 +3,7 @@
 
     <Element>
         <Heading>M01 Cider Press</Heading>
-        <Question>The cider press bar is rotated into a scoring position</Question>
+        <Question>The cider press bar is rotated into a scoring position (10 pts yellow, 20 pts blue)</Question>
         <Tag>m01</Tag>
         <Option><Label>Red</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yellow</Label><Value>1</Value></Option>
@@ -15,7 +15,7 @@
 
     <Element>
         <Heading>M02 Lift</Heading>
-        <Question>The bar is latched into the high position</Question>
+        <Question>The bar is latched into the high position (20 pts)</Question>
         <Tag>m02</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -26,7 +26,7 @@
 
     <Element>
         <Heading>M03 Lime Kiln Chute</Heading>
-        <Question>No regolith in the ore chute at the end of the match</Question>
+        <Question>No regolith in the ore chute at the end of the match (10 pts)</Question>
         <Tag>m03</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -37,7 +37,7 @@
     
     <Element>
         <Heading>M04 Corral</Heading>
-        <Question>Rain barrel within 10 mm of the corral</Question>
+        <Question>Rain barrel within 10 mm of the corral (15 pts)</Question>
         <Tag>m04a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -48,7 +48,7 @@
 
     <Element>
         <Heading>M04 Corral</Heading>
-        <Question>Each hay bale at least partially in the corral and not touching the mat</Question>
+        <Question>Each hay bale at least partially in the corral and not touching the mat (5 pts each)</Question>
         <Tag>m04b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -61,7 +61,7 @@
 
     <Element>
         <Heading>M04 Corral</Heading>
-        <Question>Pony at least partially in the corral and not touching the mat at the end of the match</Question>
+        <Question>Pony at least partially in the corral and not touching the mat at the end of the match (20 pts)</Question>
         <Tag>m04c</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -72,7 +72,7 @@
 
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Truck parked inside the dirt driveways at the end of the match</Question>
+        <Question>Truck parked inside the dirt driveways at the end of the match (20 pts)</Question>
         <Tag>m05a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -83,7 +83,7 @@
 
     <Element>
         <Heading>M06 Ore Hopper</Heading>
-        <Question>Regolith not in the ore hopper at the end of the match</Question>
+        <Question>Regolith not in the ore hopper at the end of the match (20 pts)</Question>
         <Tag>m06</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -94,7 +94,7 @@
 
     <Element>
         <Heading>M07 Architectural Blocks</Heading>
-        <Question>Architectural block at least partially in the Cider Circle at the end of the match</Question>
+        <Question>Architectural block at least partially in the Cider Circle at the end of the match (5 pts each)</Question>
         <Tag>m07a</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -108,7 +108,7 @@
 
     <Element>
         <Heading>M07 Architectural Blocks</Heading>
-        <Question>Architectural block at least partially in the Old Stone Circle at the end of the match</Question>
+        <Question>Architectural block at least partially in the Old Stone Circle at the end of the match (10 pts each)</Question>
         <Tag>m07b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -122,7 +122,7 @@
 
     <Element>
         <Heading>M08 Regolith</Heading>
-        <Question>Regolith completely in the truck at the end of the match</Question>
+        <Question>Regolith completely in the truck at the end of the match (10 pts each)</Question>
         <Tag>m08</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -134,7 +134,7 @@
 
     <Element>
         <Heading>M9 Trophy </Heading>
-        <Question>Trophy hanging from the ore hopper or lift at the end of the match</Question>
+        <Question>Trophy hanging from the ore hopper or lift at the end of the match (20 pts each)</Question>
         <Tag>m09</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
