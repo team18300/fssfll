@@ -107,7 +107,7 @@
     </Element>
 
     <Element>
-        <Heading>M07 Ore Hopper</Heading>
+        <Heading>M07 Architectural Blocks</Heading>
         <Question>Architectural block at least partially in the Old Stone Circle at the end of the match</Question>
         <Tag>m07b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
