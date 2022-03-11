@@ -16,11 +16,23 @@
     <Element>
         <Heading>M02 Lift</Heading>
         <Question>The bar is latched into the high position (20 pts)</Question>
-        <Tag>m02</Tag>
+        <Tag>m02a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
         <Score><![CDATA[
-            score += this.answers["m02"] * 20;
+            score += this.answers["m02a"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M02 Lift </Heading>
+        <Question>Trophy hanging from the lift at the end of the match (20 pts each)</Question>
+        <Tag>m02b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02b"] * 20;
         ]]></Score>
     </Element>
 
@@ -108,14 +120,26 @@
     <Element>
         <Heading>M06 Rain Collection Storage Tower</Heading>
         <Question>Rain collection barrels removed from the storage tower at the end of the match (20 pts)</Question>
-        <Tag>m06</Tag>
+        <Tag>m06a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
         <Score><![CDATA[
-            score += this.answers["m06"] * 20;
+            score += this.answers["m06a"] * 20;
         ]]></Score>
     </Element>
 
+    <Element>
+        <Heading>M06 Rain Collection Storage Tower</Heading>
+        <Question>Trophy hanging from the Rain Collection Storage Tower at the end of the match (20 pts each)</Question>
+        <Tag>m06b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06b"] * 20;
+        ]]></Score>
+    </Element>
+    
     <Element>
         <Heading>M07 Architectural Blocks</Heading>
         <Question>Architectural block at least partially in the Cider Circle at the end of the match (5 pts each)</Question>
@@ -144,15 +168,5 @@
         ]]></Score>
     </Element>
 
-    <Element>
-        <Heading>M08 Trophy </Heading>
-        <Question>Trophy hanging from the ore hopper or lift at the end of the match (20 pts each)</Question>
-        <Tag>m09</Tag>
-        <Option><Label>0</Label><Value>0</Value><Default/></Option>
-        <Option><Label>1</Label><Value>1</Value></Option>
-        <Option><Label>2</Label><Value>2</Value></Option>
-        <Score><![CDATA[
-            score += this.answers["m09"] * 20;
-        ]]></Score>
-    </Element>
+
 </Scoring_Elements>
