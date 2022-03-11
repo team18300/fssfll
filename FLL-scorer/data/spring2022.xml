@@ -25,8 +25,8 @@
     </Element>
     
     <Element>
-        <Heading>M02 Lift </Heading>
-        <Question>Trophy hanging from the lift at the end of the match (20 pts each)</Question>
+        <Heading>M02 Lift</Heading>
+        <Question>Trophy hanging from the lift (20 pts each)</Question>
         <Tag>m02b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -38,7 +38,7 @@
 
     <Element>
         <Heading>M03 Lime Kiln Chute</Heading>
-        <Question>Regolith emptied from the chute at the end of the match (10 pts)</Question>
+        <Question>Regolith emptied from the chute (10 pts)</Question>
         <Tag>m03</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -73,7 +73,7 @@
 
     <Element>
         <Heading>M04 Corral</Heading>
-        <Question>Pony at least partially in the corral and not touching the mat at the end of the match (20 pts)</Question>
+        <Question>Pony at least partially in the corral and not touching the mat (20 pts)</Question>
         <Tag>m04c</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -84,7 +84,7 @@
 
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Truck parked inside the dirt driveways at the end of the match (20 pts)</Question>
+        <Question>Truck parked inside the dirt driveways (20 pts)</Question>
         <Tag>m05a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -95,7 +95,7 @@
     
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Rain Barrels completely in the truck at the end of the match (10 pts each)</Question>
+        <Question>Rain Barrels completely in the truck (10 pts each)</Question>
         <Tag>m05b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -107,7 +107,7 @@
     
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Regolith completely in the truck at the end of the match (10 pts each)</Question>
+        <Question>Regolith completely in the truck (10 pts each)</Question>
         <Tag>m05c</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -119,7 +119,7 @@
     
     <Element>
         <Heading>M06 Rain Collection Storage Tower</Heading>
-        <Question>Rain collection barrels removed from the storage tower at the end of the match (20 pts)</Question>
+        <Question>Rain collection barrels removed from the storage tower (20 pts)</Question>
         <Tag>m06a</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -130,7 +130,7 @@
 
     <Element>
         <Heading>M06 Rain Collection Storage Tower</Heading>
-        <Question>Trophy hanging from the Rain Collection Storage Tower at the end of the match (20 pts each)</Question>
+        <Question>Trophy hanging from the Rain Collection Storage Tower (20 pts each)</Question>
         <Tag>m06b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -142,7 +142,7 @@
     
     <Element>
         <Heading>M07 Architectural Blocks</Heading>
-        <Question>Architectural block at least partially in the Cider Circle at the end of the match (5 pts each)</Question>
+        <Question>Architectural block at least partially in the Cider Circle (5 pts each)</Question>
         <Tag>m07a</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -156,7 +156,7 @@
 
     <Element>
         <Heading>M07 Architectural Blocks</Heading>
-        <Question>Architectural block at least partially in the Old Stone Circle at the end of the match (10 pts each)</Question>
+        <Question>Architectural block at least partially in the Old Stone Circle (10 pts each)</Question>
         <Tag>m07b</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
