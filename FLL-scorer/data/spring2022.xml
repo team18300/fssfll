@@ -26,7 +26,7 @@
 
     <Element>
         <Heading>M03 Lime Kiln Chute</Heading>
-        <Question>No regolith in the ore chute at the end of the match (10 pts)</Question>
+        <Question>Regolith emptied from the chute at the end of the match (10 pts)</Question>
         <Tag>m03</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -80,10 +80,34 @@
             score += this.answers["m05a"] * 20;
         ]]></Score>
     </Element>
-
+    
     <Element>
-        <Heading>M06 Ore Hopper</Heading>
-        <Question>Regolith not in the ore hopper at the end of the match (20 pts)</Question>
+        <Heading>M05 Truck</Heading>
+        <Question>Rain Barrels completely in the truck at the end of the match (10 pts each)</Question>
+        <Tag>m05b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Regolith completely in the truck at the end of the match (10 pts each)</Question>
+        <Tag>m05c</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05c"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M06 Rain Collection Storage Tower</Heading>
+        <Question>Rain collection barrels removed from the storage tower at the end of the match (20 pts)</Question>
         <Tag>m06</Tag>
         <Option><Label>No</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -121,19 +145,7 @@
     </Element>
 
     <Element>
-        <Heading>M08 Regolith</Heading>
-        <Question>Regolith completely in the truck at the end of the match (10 pts each)</Question>
-        <Tag>m08</Tag>
-        <Option><Label>0</Label><Value>0</Value><Default/></Option>
-        <Option><Label>1</Label><Value>1</Value></Option>
-        <Option><Label>2</Label><Value>2</Value></Option>
-        <Score><![CDATA[
-            score += this.answers["m08"] * 10;
-        ]]></Score>
-    </Element>
-
-    <Element>
-        <Heading>M9 Trophy </Heading>
+        <Heading>M08 Trophy </Heading>
         <Question>Trophy hanging from the ore hopper or lift at the end of the match (20 pts each)</Question>
         <Tag>m09</Tag>
         <Option><Label>0</Label><Value>0</Value><Default/></Option>
