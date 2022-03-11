@@ -44,6 +44,9 @@ To run on an EV3, you'll need the following:
 - [Rename the EV3 Robot](./rename/rename.md) : Use SSH in Visual Studio Code to give the EV3 robot a unique name.
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
 
+## Robot Game
+- [2022 FSS FLL Spring Training Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
+
 ## Code Repo
 Github Repo for FSS Python code:
 https://github.com/kmortime/fss_fll_python/
