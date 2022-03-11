@@ -3,7 +3,7 @@
 
     <Element>
         <Heading>M01 Cider Press</Heading>
-        <Question>The Robot is Supported by the Bridge</Question>
+        <Question>The cider press bar is rotated into a scoring position</Question>
         <Tag>m01</Tag>
         <Option><Label>Red</Label><Value>0</Value><Default/></Option>
         <Option><Label>Yellow</Label><Value>1</Value></Option>
