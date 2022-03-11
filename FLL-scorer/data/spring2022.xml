@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Scoring_Elements>
+
+    <Element>
+        <Heading>M01 Cider Press</Heading>
+        <Question>The Robot is Supported by the Bridge</Question>
+        <Tag>m01</Tag>
+        <Option><Label>Red</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yellow</Label><Value>1</Value></Option>
+        <Option><Label>Blue</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m01"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M02 Lift</Heading>
+        <Question>The bar is latched into the high position</Question>
+        <Tag>m02</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M03 Lime Kiln Chute</Heading>
+        <Question>No regolith in the ore chute at the end of the match</Question>
+        <Tag>m03</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m03"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Rain barrel within 10 mm of the corral</Question>
+        <Tag>m04a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04a"] * 15;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Each hay bale at least partially in the corral and not touching the mat</Question>
+        <Tag>m04b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04b"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Pony at least partially in the corral and not touching the mat at the end of the match</Question>
+        <Tag>m04c</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04c"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Truck parked inside the dirt driveways at the end of the match</Question>
+        <Tag>m05a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05a"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M06 Ore Hopper</Heading>
+        <Question>Regolith not in the ore hopper at the end of the match</Question>
+        <Tag>m06</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M07 Architectural Blocks</Heading>
+        <Question>Architectural block at least partially in the Cider Circle at the end of the match</Question>
+        <Tag>m07a</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07a"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M07 Ore Hopper</Heading>
+        <Question>Architectural block at least partially in the Old Stone Circle at the end of the match</Question>
+        <Tag>m07b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07b"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M08 Regolith</Heading>
+        <Question>Regolith completely in the truck at the end of the match</Question>
+        <Tag>m08</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M9 Trophy </Heading>
+        <Question>Trophy hanging from the ore hopper or lift at the end of the match</Question>
+        <Tag>m09</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m09"] * 20;
+        ]]></Score>
+    </Element>
+</Scoring_Elements>
