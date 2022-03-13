@@ -15,8 +15,12 @@ TBD
  - The width of the display is the "x" axis
  - The height of the display is the "y" axis
  - The origin of the display is in the top left corner.  This means the top left corner has position x=0 and y=0.
- - Insert picture here....
+ - The picture below shows the "x" and "y" axis on the EV3 display along with some simple graphics made using turning on some pixels
 
+<p align="center">
+<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lessons/display/display.jpg">
+ </P>
+ 
 ## Displaying a text message
  - Use the **draw_text(x,y,*text*)** method to display text to the EV3 display
  - **x** is how far over from the top-left corner of the display to start your text message
@@ -63,6 +67,10 @@ while i < 128:
     # Wait 100 mS (that is 10% or 1/10th of a second!)
     wait(100)
 ```
+
+## There's More!
+ - There's more you can do with the display like drawing shapes and displaying pictures
+ - Check out the EV3 Micropython documentation if you'd like to learn more.
 
 ## Now it is your turn!
 
