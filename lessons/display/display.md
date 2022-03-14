@@ -55,6 +55,20 @@ wait(2000)
  - Give this example a try, how could you change it to do something different?
 
 ```python
+###################################
+# Here is where your code starts
+###################################
+# Write "Hello World" on the EV3 Display
+# Use the position:
+#   x = 0
+#   y = 0
+ev3.screen.draw_text(0, 0, "Hello World")
+# Let the program run for 2 seconds
+wait(2000)
+# Clear the Screen
+ev3.screen.clear()
+# Let the program run for 2 more seconds
+wait(2000)
 i=0
 # Create a loop which will run 128 times
 while i < 128:
@@ -90,9 +104,6 @@ while i < 128:
 #
 # A simple Example of printing to the EV3 screen
 #-----------------------------------------------------------
-###################################
-# Here is where your code starts
-###################################
 # Write "Hello World" on the EV3 Display
 # Use the position:
 #   x = 0
