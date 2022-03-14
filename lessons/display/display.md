@@ -58,17 +58,7 @@ wait(2000)
 ###################################
 # Here is where your code starts
 ###################################
-# Write "Hello World" on the EV3 Display
-# Use the position:
-#   x = 0
-#   y = 0
-ev3.screen.draw_text(0, 0, "Hello World")
-# Let the program run for 2 seconds
-wait(2000)
-# Clear the Screen
-ev3.screen.clear()
-# Let the program run for 2 more seconds
-wait(2000)
+# Create a variable i and set it equal to zero
 i=0
 # Create a loop which will run 128 times
 while i < 128:
