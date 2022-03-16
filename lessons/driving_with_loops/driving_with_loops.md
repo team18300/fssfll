@@ -31,6 +31,7 @@ distance = 250
 # While the robot.distance() is less than or equal to the variable 'distance' stay in the while loop
 while (robot.distance() <= distance):
   robot.drive(speed,turn)
+  print("The robot has moved " + str(robot.distance()) + " mm")
 
 # robot.drive() goes on forever, even after the while loop ends.
 # You need to stop the robot after exiting the while loop
@@ -115,7 +116,7 @@ print("pd = " + str(pd))
 print("distance = " + str(distance))
 print("speed = " + str(speed))
 
-
+ev3.speaker.say(“Way to go!  Now work on Part 2”)
 #-----------------------------------------------------------
 #                           PART 2
 #
@@ -127,6 +128,8 @@ print("speed = " + str(speed))
 
 
 # Stop the robot
+
+# Use ev3.speaker.say() to have the robot say you're done!
 
 ```
 
