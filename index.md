@@ -5,9 +5,11 @@ Welcome to the FSS FLL Micropython for EV3 Training Course!  A set of short less
 
 In **PART1**, the lessons start with learning just enough Micropython for you to control the virtual robot using the simulator.  The simulator can run on just about any device (iphones, chomebooks, PCs, etc).  
 
-In **PART2**, students use a Lego Mindstorm EV3 robot running Micropython to complete the lessons.  After completing each lesson module, students are expected to share their solutions with mentors to get credit for the lesson before moving to the next module.
+In **PART2**, students use a Lego Mindstorm EV3 robot running Micropython to complete the lessons.  
 
-After completing all the training modules, students can move on to the **2022 FSS FLL Spring Training Robot Game**.  In this game you will get to build with legos onto an EV3 basebot and create your own programs!  This is like the official FLL competition in the fall and has a series of fun challenges for you solve in a two minutes and thirty second run.
+After completing each lesson module, students are expected to share their solutions with mentors to get credit for the lesson before moving to the next module.
+
+When all the training modules are complete, students can move on to the **2022 FSS FLL Spring Training Robot Game**.  In this game you will get to build with legos onto an EV3 basebot and create your own programs!  This is like the official FLL competition in the fall and has a series of fun challenges for you solve in a two minutes and thirty second run.
 
 ## Don't Panic!
 Everyone *-including the mentors-* are excited to help each other learn something new!  If you get stuck, please ask for help.  If you figure out how to do something new and amazing, share it with the students & mentors :-)
