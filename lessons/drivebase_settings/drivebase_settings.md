@@ -85,7 +85,7 @@ right_motor = motorC
 color_sensor_in1 = ColorSensor(Port.S1)
 
 
-robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=108)
+robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
 robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
 
 ################################################
