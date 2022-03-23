@@ -5,7 +5,7 @@ After completing the python lessons it is now time for the 2022 FSS FLL Spring T
 All game areas have identical mission models, table setup, and scoring so students are free to choose any that may be available.
 
 The game mat is shown below:
-![Spring 2022 Game Mat](https://github.com/fssfll/fssfll/blob/main/images/game_mat/spring_training.jpg)
+![Spring 2022 Game Mat](../images/game_mat/spring_training.jpg)
 
 ## Missions
 There are 7 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
