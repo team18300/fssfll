@@ -28,7 +28,7 @@
 
 
 ### 3. Create a Python Program to solve the M08 Mission
-  * To complete this mission you will use the .straight() and .turn() methods to move the robot shown in the animations below.
+  * To complete this mission you will use the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move the robot shown in the animations below.
   
 <p align="center">
 <TABLE>
@@ -75,7 +75,7 @@ motorB = Motor(Port.B)
 motorC = Motor(Port.C)
 left_motor = motorB
 right_motor = motorC
-robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=108)
+robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
 robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
 
 color_sensor_in1 = ColorSensor(Port.S1)
