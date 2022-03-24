@@ -48,7 +48,7 @@
   * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
   * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
 
-### 4. Now add to the program using the .straight() and .turn() methods to move the orange cube into the M09 circle and return to home
+### 4. Now add to the program using the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move the orange cube into the M09 circle and return to home
   * Use the comments in "Part 2" below as a guide.  Add one or more lines of code below each comment. 
 
 ### 5. After Creating the program, save it to your computer using the **File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
@@ -105,7 +105,7 @@ robot.turn(-90)
 #                           PART 2
 #
 # Now it is your turn to add on to the program.
-# Use the robot.turn() and robot.stright() methods to move
+# Use the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move
 # the orange food into the M09 circle.
 # Follow the comments below or try your own approach.
 #-----------------------------------------------------------
