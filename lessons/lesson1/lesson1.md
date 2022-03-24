@@ -41,6 +41,8 @@
 </TABLE>
  </P>
  
+  * Remember, a millimeter abbreviated "mm" is really small!  It is 1/10th or 10% of the length of a centemeter.
+ ![Ruler](./ruler.JPG)
   * In the simulator click on the **Python Menu** and make sure **Pybricks Mode** is selected
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
