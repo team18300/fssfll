@@ -168,5 +168,47 @@
         ]]></Score>
     </Element>
 
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaninful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaninfgul but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met.  Students must point out to the referee when the robot uses one of the methods! </Heading>
+        <Question>Meaningful use of line following to sucessfully complete any mission.  (10 pts)</Question>
+        <Tag>m08a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08a"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaninful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaninfgul but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of squaring up on a wall or mission model to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08b</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaninful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaninfgul but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of squaring up on a wall or mission model to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08b</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08b"] * 10;
+        ]]></Score>
+    </Element>
 
+        <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaninful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaninfgul but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of wall following to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08c</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08c"] * 10;
+        ]]></Score>
+    </Element>
 </Scoring_Elements>
