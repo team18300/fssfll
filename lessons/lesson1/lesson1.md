@@ -46,11 +46,12 @@
   * In the simulator click on the **Python Menu** and make sure **Pybricks Mode** is selected
   * Click on the **Python Tab**
   * You can see some of the python program is already in the text editor.
-  * Use the code in the example below to attempt to move the purple cube into the M08 circle.
-  * You can copy the code below and paste it into the **Python Tab** to solve mission M08.
+  * Use the code in the example below to attempt to move the pink cube into the M07 circle.
+  * You can copy the code below and paste it into the **Python Tab**
   * After you copy the code into the **Python Tab** click the **Simulator Tab** and press the play triange to run the simulation.
+  * Press the reload/rewind symbol to reset the simulator and try again
 
-### 4. Now add to the program using the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move the orange cube into the M09 circle and return to home
+### 4. Now add to the program using the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move the orange cube into the M07 circle in the northwest corner of the map and return to home
   * Use the comments in "Part 2" below as a guide.  Add one or more lines of code below each comment. 
 
 ### 5. After Creating the program, save it to your computer using the **File Menu** and then Save Python to my computer.  Make sure you save the program in a safe spot becuase we will use it again!
@@ -89,11 +90,11 @@ color_sensor_in1 = ColorSensor(Port.S1)
 #-----------------------------------------------------------
 #                           PART 1
 #
-# Use the code below to move the purple block into the M08
+# Use the code below to move the purple block into the M07
 # circle.  
 #-----------------------------------------------------------
-# Drive straight forwards pushing block into M08 circle
-print("Pushing Block into M08 Food Circle...\n")
+# Drive straight forward pushing pink block into M07 circle in the northeast corner of the map
+print("Pushing Block into M07 Circle...\n")
 robot.straight(500)
 
 # Drive straight backwards to return to the launch area
@@ -108,7 +109,7 @@ robot.turn(-90)
 #
 # Now it is your turn to add on to the program.
 # Use the robot.straight(distance in mm) and robot.turn(angle in degrees) methods to move
-# the orange food into the M09 circle.
+# the orange block into the M07 circle in the northwest corner of the map.
 # Follow the comments below or try your own approach.
 #-----------------------------------------------------------
 
@@ -118,7 +119,7 @@ robot.turn(-90)
 # Turn 90 degress towards north wall
 # Hint: It may help to back up a little bit before making the turn.
 
-# Move straight pushing block into M09 circle
+# Move straight pushing block into M07 circle in the northwest corner of the map
 # Hint: It may help to drive into the north wall to square up the robot.
 
 # Return to the home quarter circle
