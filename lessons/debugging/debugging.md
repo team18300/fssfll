@@ -1,5 +1,5 @@
 # Lesson 3:
-# Debugging Your Code
+## Debugging Your Code
 
 ## Lesson Plan:
 1. Watch the lesson plan video below
