@@ -1,3 +1,4 @@
+# Lesson 7:
 # Using the Display
 
 ## Lesson Plan:
