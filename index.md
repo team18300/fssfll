@@ -1,7 +1,10 @@
-# FSS FLL Spring Training
+
+<p align="center">
+<img src="/images/br_top.JPG">
+</P>
 
 ## Getting Started
-Welcome to the FSS FLL Micropython for EV3 Training Course!  A set of short lessons below are divided between using a virtual robot simulator and lessons run on the EV3.
+Welcome to the Bolton Robotics FLL Micropython for EV3 Training Course!  A set of short lessons below are divided between using a virtual robot simulator and lessons run on the EV3.
 
 After completing each lesson module, students are expected to share their solutions with mentors to get credit for the lesson before moving to the next module. 
 
