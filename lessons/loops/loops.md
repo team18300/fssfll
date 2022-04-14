@@ -1,4 +1,4 @@
-# Lesson 4:
+# Lesson 5:
 # Using Loops
 
 ## Lesson Plan:
