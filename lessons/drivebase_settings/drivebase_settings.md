@@ -1,4 +1,4 @@
-# Lesson 2:
+# Lesson 3:
 # Changing Speed By Using the Drivebase Settings
 
 ## Lesson Plan:
