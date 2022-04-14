@@ -1,4 +1,4 @@
-# Lesson 3:
+# Lesson 4:
 # Debugging Your Code
 
 ## Lesson Plan:
