@@ -8,7 +8,7 @@ The game mat is shown below:
 ![Spring 2022 Game Mat](../images/game_mat/spring_training.jpg)
 
 ## Missions
-There are 7 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
+There are 8 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
 
 [2022 FSS FLL Spring Training Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
 
