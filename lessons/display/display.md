@@ -116,9 +116,9 @@ wait(2000)
 
 # Display the text "TR" at (x=150,y=0)
 
-# Display the text "BR" at (x=0,y=100)
+# Display the text "BL" at (x=0,y=100)
 
-# Display the text "BL" at (x=150,y=100)
+# Display the text "BT" at (x=150,y=100)
 
 # Wait for 5 seconds
 
