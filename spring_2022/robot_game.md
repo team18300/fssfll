@@ -10,7 +10,9 @@ The game mat is shown below:
 ## Missions
 There are 8 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
 
-[2022 FSS FLL Spring Training Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
+[2022 Bolton Robotics FLL Spring Training Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
+
+[Printable 2022 Bolton Robotics Scoring Rules](./Around_Bolton_Rules.pdf)
 
 ## Additional Rules
  * You can ony interact with mission models or cargo in the launch/home quarter circle
