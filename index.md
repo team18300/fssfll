@@ -27,6 +27,7 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 - [2022 Bolton Robotics Spring Training Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
 
 ## Additional How-To's (students are not required to complete this training):
+- [Helpful Python Commands](./howto/Python Commands.pdf) : List of helpful commands including how to use attachment motors
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
 
 ## Code Repo
