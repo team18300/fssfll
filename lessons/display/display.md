@@ -34,6 +34,30 @@
  - Give this example a try!
 
 ```python
+ #!/usr/bin/env pybricks-micropython
+
+# Import the necessary libraries
+import math
+import time
+from pybricks.parameters import *
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import *
+from pybricks.tools import wait
+from pybricks.robotics import DriveBase
+
+# Create the sensors and motors objects
+ev3 = EV3Brick()
+
+motorB = Motor(Port.B)
+motorC = Motor(Port.C)
+left_motor = motorB
+right_motor = motorC
+
+color_sensor_in1 = ColorSensor(Port.S1)
+
+
+robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
+robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
 ###################################
 # Here is where your code starts
 ###################################
@@ -56,6 +80,30 @@ wait(2000)
  - Give this example a try, how could you change it to do something different?
 
 ```python
+ #!/usr/bin/env pybricks-micropython
+
+# Import the necessary libraries
+import math
+import time
+from pybricks.parameters import *
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import *
+from pybricks.tools import wait
+from pybricks.robotics import DriveBase
+
+# Create the sensors and motors objects
+ev3 = EV3Brick()
+
+motorB = Motor(Port.B)
+motorC = Motor(Port.C)
+left_motor = motorB
+right_motor = motorC
+
+color_sensor_in1 = ColorSensor(Port.S1)
+
+
+robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
+robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
 ###################################
 # Here is where your code starts
 ###################################
@@ -86,6 +134,31 @@ while i < 128:
 ### 3. Follow the instructions in the code comments below to complete "Part 2" of the assignment
 
 ```python
+ #!/usr/bin/env pybricks-micropython
+
+# Import the necessary libraries
+import math
+import time
+from pybricks.parameters import *
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import *
+from pybricks.tools import wait
+from pybricks.robotics import DriveBase
+
+# Create the sensors and motors objects
+ev3 = EV3Brick()
+
+motorB = Motor(Port.B)
+motorC = Motor(Port.C)
+left_motor = motorB
+right_motor = motorC
+
+color_sensor_in1 = ColorSensor(Port.S1)
+
+
+robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
+robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
+ 
 ################################################
 # Here is where your code starts
 ################################################
