@@ -31,8 +31,8 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
 
 ## Code Repo
-Github Repo for FSS Python code:
-https://github.com/kmortime/fss_fll_python/
+Github Repo for Bolton robotics base Python code:
+[https://github.com/fssfll/fll_basecode](https://github.com/fssfll/fll_basecode)
 
 ## More Resources
 * [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
