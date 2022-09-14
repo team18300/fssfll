@@ -26,13 +26,21 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 ## 2022 Bolton Robotics Spring Training Game
 - [2022 Bolton Robotics Spring Training Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
 
-## Additional How-To's (students are not required to complete this training):
+## Additional How-To's (students are not required to complete this training)
 - [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
 
-## Code Repo
+## Base Code Repo For Fall Competition
 Github Repo for Bolton robotics base Python code:
 [https://github.com/fssfll/fll_basecode](https://github.com/fssfll/fll_basecode)
+
+The Bolton Robotics base code provides a generic python project template which may then be customized by the team.  The template creates a robot_<name> class and uses a constructor to initialize settings and parameters.  It also provides a simple menu to select between five empty mission templates.  
+
+<p align="center">
+<img src="/images/bolton_robotics_code.jpg">
+</P>
+
+
 
 ## More Resources
 * [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
