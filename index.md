@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="/images/br_top.JPG">
+<img src="./images/br_top.JPG">
 </P>
 
 ## Getting Started
@@ -34,10 +34,10 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 Github Repo for Bolton robotics base Python code:
 [https://github.com/fssfll/fll_basecode](https://github.com/fssfll/fll_basecode)
 
-The Bolton Robotics base code provides a generic python project template which may then be customized by the team.  The template creates a robot_<name> class and uses a constructor to initialize settings and parameters.  It also provides a simple menu to select between five empty mission templates.  
+The Bolton Robotics base code provides a generic python project template which may then be customized by the team.  The template creates a robot_name class and uses a constructor to initialize settings and parameters.  It also provides a simple menu to select between five empty mission templates.  
 
 <p align="center">
-<img src="/images/bolton_robotics_code.jpg">
+<img src="./images/bolton_robotics_code.jpg">
 </P>
 
 
