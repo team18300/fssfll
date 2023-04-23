@@ -1,4 +1,4 @@
-# Spring 2022 FSS FLL Robot Game
+# Around Bolton Robot Game
 
 
 After completing the python lessons it is now time for the  Bolton Robotics Around Bolton Robot Game!  For this game, the standard FLL table is divided into 3 identical smaller game areas.
