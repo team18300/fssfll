@@ -1,18 +1,18 @@
 # Spring 2022 FSS FLL Robot Game
 
 
-After completing the python lessons it is now time for the 2022 FSS FLL Spring Training Robot Game!  For this game, the standard FLL table is divided into 3 identical smaller game areas.
+After completing the python lessons it is now time for the  Bolton Robotics Around Bolton Robot Game!  For this game, the standard FLL table is divided into 3 identical smaller game areas.
 All game areas have identical mission models, table setup, and scoring so students are free to choose any that may be available.
 
 The game mat is shown below:
-![Spring 2022 Game Mat](../images/game_mat/spring_training.jpg)
+![Around Bolton Game Mat](../images/game_mat/spring_training.jpg)
 
 ## Missions
 There are 8 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
 
-[2022 Bolton Robotics FLL Spring Training Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
+[Bolton Robotics FLL Around Bolton Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
 
-[Printable 2022 Bolton Robotics Scoring Rules](./Around_Bolton_Rules.pdf)
+[Printable Scoring Rules](./Around_Bolton_Rules.pdf)
 
 ## Additional Rules
  * You can ony interact with mission models or cargo in the launch/home quarter circle
