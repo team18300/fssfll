@@ -2,19 +2,19 @@
 
 The Ev3 Gyro sensor shown below can be connected to any of the four sensor ports numbered 1-4 and used to determine the robots direction.
 <p align="center">
-![EV3 GYRO](../images/ev3_gyro.png)
+![EV3 GYRO](./ev3_gyro.png)
  </p>
 The Gyro provides the Ev3 with a sense of direction by indicating degrees of rotation since the gyro was last reset.  For example, if the robot has turned left and is now facing backwards the gyro would give a reading of -180.  If the robot has turned a quarter circle to the right the gyro would give a reading of 90.
 <p align="center">
-![EV3 GYRO](../images/compass.JPG)
+![EV3 GYRO](./compass.JPG)
 </p>
 The Gyro can be used in a feedback loop to help the robot drive in a straight line.  A feedback loop can be created by first determining the error which is the difference between the direction the robot should be driving and the direction the robot is actually driving.  
 <p align="center">
-![EV3 GYRO](../images/ev3_direction.JPG)
+![EV3 GYRO](./ev3_direction.JPG)
 </p>
 The error can then be used to continually sense and correct the robots direction by using the robot.drive(speed,turn) method inside of a while loop like shown below.  This example is intended to be included inside of a user defined robot class.  
 
-If you are using the Bolton Robotics Base Code https://github.com/fssfll/fll_basecode, the code below would need to be added near the bottom of the https://github.com/fssfll/fll_basecode/bolton_robotics_robot.py file below the banner, "Define functions as needed." 
+If you are using the Bolton Robotics Base Code https://github.com/fssfll/fll_basecode, the code below would need to be added near the bottom of the [https://github.com/fssfll/fll_basecode/bolton_robotics_robot.py](https://github.com/fssfll/fll_basecode/blob/main/bolton_robotics_robot.py) file below the banner, "Define functions as needed." 
 
 ```python
   ################################
@@ -57,7 +57,7 @@ If you are using the Bolton Robotics Base Code https://github.com/fssfll/fll_bas
             self.robot.drive(speed,turn)
 ```
 
-In addition to creating the gyro_drive_straight method, the Gyro must be reset and calibrated.  This can be accomplished with a calibrate_gyro method also added to the bottom of the https://github.com/fssfll/fll_basecode/bolton_robotics_robot.py file:
+In addition to creating the gyro_drive_straight method, the Gyro must be reset and calibrated.  This can be accomplished with a calibrate_gyro method also added to the bottom of the [https://github.com/fssfll/fll_basecode/bolton_robotics_robot.py](https://github.com/fssfll/fll_basecode/blob/main/bolton_robotics_robot.py) file:
 ```python
 # Reset The Gyro
     def calibrate_gyro(self, port_number):
@@ -104,7 +104,7 @@ In addition to creating the gyro_drive_straight method, the Gyro must be reset a
                 wait(500)
                 self.ev3.screen.clear()
 ```
-The calibrate_gyro method should be called only once on startup.  It is important to not move the robot when calibration is active.  The calibrate_gyro method can be called in https://github.com/fssfll/fll_basecode/main.py
+The calibrate_gyro method should be called only once on startup.  It is important to not move the robot when calibration is active.  The calibrate_gyro method can be called in [https://github.com/fssfll/fll_basecode/main.py](https://github.com/fssfll/fll_basecode/blob/main/main.py)
 ```python
 ###########
 # Startup
@@ -123,7 +123,7 @@ menu(r)
 ```
 
 
-The method can then be used inside of a mission program like in this example which is modified from https://github.com/fssfll/fll_basecode/mission_three.py:
+The method can then be used inside of a mission program like in this example which is modified from [https://github.com/fssfll/fll_basecode/mission_three.py](https://github.com/fssfll/fll_basecode/blob/main/mission_three.py):
 ```python
 ##########################################################
 # Pybrcks Micropython Base Code For Lego Mindstorm EV3 
