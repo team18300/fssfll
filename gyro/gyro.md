@@ -6,7 +6,7 @@ The Ev3 Gyro sensor shown below can be connected to any of the four sensor ports
  </p>
 The Gyro provides the Ev3 with a sense of direction by indicating degrees of rotation since the gyro was last reset.  For example, if the robot has turned left and is now facing backwards the gyro would give a reading of -180.  If the robot has turned a quarter circle to the right the gyro would give a reading of 90.
 <p align="center">
-![EV3 GYRO](./compass.JPG)
+![EV3 GYRO](./headings.JPG)
 </p>
 The Gyro can be used in a feedback loop to help the robot drive in a straight line.  A feedback loop can be created by first determining the error which is the difference between the direction the robot should be driving and the direction the robot is actually driving.  
 <p align="center">
