@@ -1,4 +1,4 @@
-# Usign the Gyro
+# All About the Gyro
 
 The Ev3 Gyro sensor shown below can be connected to any of the four sensor ports numbered 1-4 and used to determine the robots direction.
 <p align="center">
