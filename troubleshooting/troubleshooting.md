@@ -1,5 +1,5 @@
 
-<H2>Robitics Troubleshooting and Debug Tips</H2>
+<H2>Robotics Troubleshooting and Debug Tips</H2>
 
 **Why won't VSC connect to the robot?**
 * You won't be able to connect to the EV3 if it is currently running a program.  You must stop the program first and then try to connect.
