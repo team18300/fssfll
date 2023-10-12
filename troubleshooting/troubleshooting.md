@@ -3,7 +3,8 @@
 
 * You won't be able to connect to the EV3 if it is currently running a program.  You must stop the program first and then try to connect.
 * Python is very picky about indentation.  Code must have the same indentation level, code within a method or while loop must be indented further.
-* It is a good practice to use the "run and debug" operation which can be started by pressing the "F5" key.
+* It is a good practice to use the "run and debug" operation which can be started in Visual Studio Code by pressing the "F5" key or by using the GUI:
+<img src="run_and_debug.JPG"></img>
 * The "OUTPUT" window will display errors in your code.  Usually it is a good idea to start at the bottom of the Traceback messages and work backwards.  Here's an example:
 <img src="syntax_error.JPG"></img>
 * Wifi USB adapters can eliminate the need to plug a cable onto the EV3 to download code and greatly speed up design iteration.  The CanaKit USB Wifi Adapter works although it is not officially listed.  Not all USB Wifi adapaters will work!  When connected with Wifi and using the "run and debug" mode, you will see print messages in the Visual Studio Code window.  This can be very hepful to get real-time feedback about what the code is doing as the robot is running on the table. [Supported list of USB wifi adapters](https://www.ev3dev.org/docs/networking/)  This is the CanaKit USB Wifi Adapater which has been seen to work:   
