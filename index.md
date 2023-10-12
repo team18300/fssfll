@@ -30,6 +30,8 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 - [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
 - [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
 - [All About the Gyro Sensor](./gyro/gyro.md) : Gyro sensor description, calibration and use.
+- [Rename The EV3](./rename/rename.md) : How to rename the EV3 (this is the name displayed when connecting to the robot in Visual Studio Code)
+- [TroubleShooting Guide](./troubleshooting/troubleshooting.md) : A collection of learnings about what to do when "it doesn't work"
 
 ## Base Code Repo For Fall Competition
 Github Repo for Bolton robotics base Python code:
