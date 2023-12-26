@@ -1,10 +1,14 @@
 
-<p align="center">
-<img src="./images/br_top.JPG">
-</P>
+## Welcome!
+Welcome to the Bolton Robotics Group, where creativity, innovation, and teamwork come together in the exciting world of FIRST LEGO League robotics! Our group supports enthusiastic middle school students who share a passion for robotics and using the LEGO Mindstorms EV3 robot.
 
-## Getting Started
-Welcome to the Bolton Robotics FLL Micropython for EV3 Training Course!  A set of short lessons below are divided between using a virtual robot simulator and lessons run on the EV3.
+On this website, we've gathered a set of resources aimed at helping students and mentors user Pybricks Python to program Lego EV3 robots.   Whether you're a beginner eager to take your first steps in coding or an experienced programmer looking to enhance your skills, our resources are designed to introduce basic concepts, provide tutorials, tips, and real-world examples.
+
+In addition to Pybricks Python resources, we've also gatheter a collection of FIRST LEGO League resources. These materials cover a wide range of topics ensuring that teams are well-prepared for the challenges and excitement that come with participating in FIRST LEGO League competitions.
+
+---
+
+A set of short lessons below are divided between using a virtual robot simulator and lessons run on the EV3.
 
 After completing each lesson module, students are expected to share their solutions with mentors to get credit for the lesson before moving to the next module. 
 
