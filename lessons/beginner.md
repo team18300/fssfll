@@ -33,11 +33,15 @@ __Example EV3 Virtual World Simulator__
 Before you jump into the more advanced training, make sure to complete each of the introductory modules.  These modules are designed to introduce Pybricks Micropython using a virtual EV3 robot in a simulator. They'll lay the foundation for your coding skills and prepare you for the challenges that lie ahead in the intermediate level training. Happy coding!
 
 # Training Modules
- - __1__ [Create Your First Python Program](../lessons/lesson1/lesson1.md) : Using the simulator write a python script to move virtual blocks into scoring areas
- - __2__ [Changing Speed Using the Drivebase Settings](../lessons/drivebase_settings/drivebase_settings.md) : Use the drivebase settings to change the speed of your robot
- - __3__ [Code Debugging](../lessons/debugging/debugging.md) : How to debug your python program
- - __4__ [Code Loops](../lessons/loops/loops.md) : Learn how to use a code loop to perform a repeated action
- - __5__ [Driving Using Code Loops](../lessons/driving_with_loops/driving_with_loops.md) : Using loops to drive on a curve and line follow
+<img src="../../images/first.jpg" width=100> [Launch Lesson 1](../lessons/lesson1/lesson1.md) Create Your First Python Program.  Using the simulator write a python script to move virtual blocks into scoring areas
+
+<img src="../../images/speed.jpg" width=100>[Launch Lesson 2](../lessons/drivebase_settings/drivebase_settings.md) Changing Speed Using the Drivebase Settings. Use the drivebase settings to change the speed of your robot
+
+<img src="../../images/debugging.jpg" width=100>[Launch Lesson 3](../lessons/debugging/debugging.md) Debugging.  How to debug your python program
+
+<img src="../../images/loops.jpg" width=100>[Launch Lesson 4](../lessons/loops/loops.md) Code Loops. Learn how to use a code loop to perform a repeated action
+
+<img src="../../images/drive_loop.jpg" width=100>[Launch Lesson 5](../lessons/driving_with_loops/driving_with_loops.md) Driving using code loops.  Using loops to drive on a curve and line follow
 
 
 ```
