@@ -37,8 +37,8 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          8.5,
-          8.5,
+          7.5,
+          7.5,
           2
         ],
         "modelURL": "",
@@ -60,9 +60,9 @@
       {
         "type": "cylinder",
         "position": [
-          -26.28332622147381,
-          60.207307622930635,
-          6
+          -26.56044389896101,
+          60.11740858385163,
+          7
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -98,7 +98,7 @@
         "position": [
           -30.852228819948735,
           55.58263002147586,
-          6
+          7
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -134,7 +134,7 @@
         "position": [
           -28.498700323300874,
           57.86367401298439,
-          6
+          7
         ],
         "rotationMode": "degrees",
         "rotation": [
