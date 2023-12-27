@@ -53,6 +53,11 @@ Before you jump into the more advanced training, make sure to complete each of t
 <TR><TD><img src="../../images/drive_loop.jpg" width=200><BR><A HREF="../lessons/driving_with_loops/driving_with_loops.md">Launch Lesson 5</A></TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
 </TD>
 </TR>
+
+<TR><TD><img src="../../images/towers.jpg" width=200><BR><A HREF="../lessons/mechsquare/mechsquare.md">Launch Lesson 6</A></TD><TD><B>Squaring up on mission models</B><BR>  Learn about how and why to square up on a mission model
+</TD>
+</TR>
+
 </TABLE>
 
 ```
