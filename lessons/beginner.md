@@ -34,27 +34,27 @@ Before you jump into the more advanced training, make sure to complete each of t
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../lesson1/lesson1.md">Launch Lesson 1</A> </TD><TD><B>Create Your First Python Program.</B><BR>Using the simulator write a python script to move virtual blocks into scoring areas
+<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../lesson1/lesson1">Launch Lesson 1</A> </TD><TD><B>Create Your First Python Program.</B><BR>Using the simulator write a python script to move virtual blocks into scoring areas
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/speed.jpg" width=200><BR><A HREF="../drivebase_settings/drivebase_settings.md">Launch Lesson 2</A></TD><TD><B>Changing Speed Using the Drivebase Settings</B><BR> Use the drivebase settings to change the speed of your robot
+<TR><TD><img src="../../images/speed.jpg" width=200><BR><A HREF="../drivebase_settings/drivebase_settings">Launch Lesson 2</A></TD><TD><B>Changing Speed Using the Drivebase Settings</B><BR> Use the drivebase settings to change the speed of your robot
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/debugging.jpg" width=200><BR><A HREF="../debugging/debugging.md">Launch Lesson 3</A></TD><TD><B>Debugging</B><BR> How to debug your python program
+<TR><TD><img src="../../images/debugging.jpg" width=200><BR><A HREF="../debugging/debugging">Launch Lesson 3</A></TD><TD><B>Debugging</B><BR> How to debug your python program
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/loops.jpg" width=200><BR><A HREF="../loops/loops.md">Launch Lesson 4</A></TD><TD><B>Code Loops</B><BR> Learn how to use a code loop to perform a repeated action
+<TR><TD><img src="../../images/loops.jpg" width=200><BR><A HREF="../loops/loops">Launch Lesson 4</A></TD><TD><B>Code Loops</B><BR> Learn how to use a code loop to perform a repeated action
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/drive_loop.jpg" width=200><BR><A HREF="../driving_with_loops/driving_with_loops.md">Launch Lesson 5</A></TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
+<TR><TD><img src="../../images/drive_loop.jpg" width=200><BR><A HREF="../driving_with_loops/driving_with_loops">Launch Lesson 5</A></TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/towers.jpg" width=200><BR><A HREF="../mechsquare/mechsquare.md">Launch Lesson 6</A></TD><TD><B>Squaring up on mission models</B><BR>  Learn about how and why to square up on a mission model
+<TR><TD><img src="../../images/towers.jpg" width=200><BR><A HREF="../mechsquare/mechsquare">Launch Lesson 6</A></TD><TD><B>Squaring up on mission models</B><BR>  Learn about how and why to square up on a mission model
 </TD>
 </TR>
 
