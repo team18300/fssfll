@@ -3,7 +3,7 @@ Get ready for an exciting journey into the world of Python programming for your 
 
 Before you jump into the more advanced training, make sure to complete each of these introductory modules. They'll lay the foundation for your coding skills and prepare you for the challenges that lie ahead in the intermediate level training. Happy coding!
 
-<p  align="center"><img src="../images/beginner.jpg" width=200></P>
+<p  align="center"><img src="../../images/beginner.jpg" width=200></P>
 
 # Training Modules
  - __1__ [Create Your First Python Program](../lessons/lesson1/lesson1.md) : Using the simulator write a python script to move virtual blocks into scoring areas
