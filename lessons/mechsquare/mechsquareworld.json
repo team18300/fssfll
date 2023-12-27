@@ -7,7 +7,7 @@
     "width": 100,
     "uScale": 1,
     "vScale": 1,
-    "imageScale": 1.25,
+    "imageScale": 1,
     "timer": "none",
     "timerDuration": 60,
     "timerEnd": "continue",
@@ -24,8 +24,8 @@
       {
         "type": "box",
         "position": [
-          -30.818598781828207,
-          60.093794765449786,
+          -25.002445517216433,
+          48.37899017779557,
           1
         ],
         "rotationMode": "degrees",
@@ -60,8 +60,8 @@
       {
         "type": "cylinder",
         "position": [
-          -26.56044389896101,
-          60.11740858385163,
+          -21.29414023992358,
+          48.43351232932801,
           7
         ],
         "rotationMode": "degrees",
@@ -96,8 +96,8 @@
       {
         "type": "cylinder",
         "position": [
-          -30.852228819948735,
-          55.58263002147586,
+          -24.94042127619202,
+          44.53740710039837,
           7
         ],
         "rotationMode": "degrees",
@@ -132,8 +132,8 @@
       {
         "type": "cylinder",
         "position": [
-          -28.498700323300874,
-          57.86367401298439,
+          -23.073693438504517,
+          46.46748694559304,
           7
         ],
         "rotationMode": "degrees",
@@ -170,8 +170,8 @@
     "startPosXYZStr": "",
     "startRotStr": "",
     "startPosXYZ": [
-      28,
-      -55,
+      23,
+      -46,
       0
     ],
     "startRot": null,
