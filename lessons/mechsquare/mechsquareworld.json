@@ -60,9 +60,9 @@
       {
         "type": "cylinder",
         "position": [
-          -21.29414023992358,
-          48.43351232932801,
-          7
+          -21.08664104971463,
+          48.56212385021247,
+          5.5
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -73,8 +73,8 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          10,
-          1,
+          7,
+          1.25,
           10
         ],
         "modelURL": "",
@@ -96,9 +96,9 @@
       {
         "type": "cylinder",
         "position": [
-          -24.94042127619202,
-          44.53740710039837,
-          7
+          -25.115518226755192,
+          44.39076268634461,
+          5.5
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -109,8 +109,8 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          10,
-          1,
+          7,
+          1.25,
           10
         ],
         "modelURL": "",
@@ -134,7 +134,7 @@
         "position": [
           -23.073693438504517,
           46.46748694559304,
-          7
+          5.5
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -145,8 +145,8 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          10,
-          1,
+          7,
+          1.25,
           10
         ],
         "modelURL": "",
