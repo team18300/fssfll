@@ -1,4 +1,7 @@
-# Introduction
+---
+title: Introduction
+subtitle:
+---
 Get ready for an exciting journey into the world of Python programming for your LEGO EV3 robot! In this series of beginner-friendly training modules, you'll learn how to make your robot move and tackle various missions. Don't worry if you don't have a physical robot yet – we've got you covered with a virtual robot and a simulator that mimics the real EV3 experience.
 
 Before you jump into the more advanced training, make sure to complete each of these introductory modules. They'll lay the foundation for your coding skills and prepare you for the challenges that lie ahead in the intermediate level training. Happy coding!
