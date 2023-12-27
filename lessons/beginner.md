@@ -18,30 +18,41 @@ The EV3 robot is something you specially design to solve exciting challenges. Pi
 The EV3 robot can be equipped with sensors that act as its eyes and ears, helping it navigate the competition field and interact with the elements around it.   But here's where it gets even more awesome: you get to be the commander! Using a special computer called the "brick," (or sometimes called the "brain") you'll give your robot precise instructions to complete specific missions all by itself. It's like coaching a robot teammate to score points, solve problems, and showcase the special abilities you have given it in the competition.
 
 __Example Real World EV3 Robot:__
-<p  align="center"><img src="../../images/ev3_robot.jpg" width=100></P>
+<p  align="center"><img src="../../images/ev3_robot.jpg" width=200></P>
 
 __Example Virtual EV3 Robot:__
-<p  align="center"><img src="../../images/ev3_robot_sim.jpg" width=100></P>
+<p  align="center"><img src="../../images/ev3_robot_sim.jpg" width=200></P>
 
 
 # Simulator
 A Simulator is virtual world for your EV3 robot! It's like a special computer program that lets you test and practice your robot's moves without needing the actual physical robot.  It helps you learn and experiment with programming—creating the special instructions that tell your robot what to do.  It's like having a practice field for your robot where you can make mistakes, learn, and perfect your coding skills.
 
 __Example EV3 Virtual World Simulator__
-<p  align="center"><img src="../../images/simulator.jpg" width=100></P>
+<p  align="center"><img src="../../images/simulator.jpg" width=200></P>
 
 Before you jump into the more advanced training, make sure to complete each of the introductory modules.  These modules are designed to introduce Pybricks Micropython using a virtual EV3 robot in a simulator. They'll lay the foundation for your coding skills and prepare you for the challenges that lie ahead in the intermediate level training. Happy coding!
 
 # Training Modules
-<img src="../../images/first.jpg" width=100> [Launch Lesson 1](../lessons/lesson1/lesson1.md) Create Your First Python Program.  Using the simulator write a python script to move virtual blocks into scoring areas
+<TABLE>
+<TR><TD><img src="../../images/first.jpg" width=200><BR>[Launch Lesson 1](../lessons/lesson1/lesson1.md)</TD><TD><B>Create Your First Python Program.</B><BR>Using the simulator write a python script to move virtual blocks into scoring areas
+</TD>
+</TR>
 
-<img src="../../images/speed.jpg" width=100>[Launch Lesson 2](../lessons/drivebase_settings/drivebase_settings.md) Changing Speed Using the Drivebase Settings. Use the drivebase settings to change the speed of your robot
+<TR><TD><img src="../../images/speed.jpg" width=200><BR>[Launch Lesson 2](../lessons/drivebase_settings/drivebase_settings.md)</TD><TD><B>Changing Speed Using the Drivebase Settings</B><BR> Use the drivebase settings to change the speed of your robot
+</TD>
+</TR>
 
-<img src="../../images/debugging.jpg" width=100>[Launch Lesson 3](../lessons/debugging/debugging.md) Debugging.  How to debug your python program
+<TR><TD><img src="../../images/debugging.jpg" width=200><BR>[Launch Lesson 3](../lessons/debugging/debugging.md)</TD><TD><B>Debugging</B><BR> How to debug your python program
+</TD>
+</TR>
 
-<img src="../../images/loops.jpg" width=100>[Launch Lesson 4](../lessons/loops/loops.md) Code Loops. Learn how to use a code loop to perform a repeated action
+<TR><TD><img src="../../images/loops.jpg" width=200><BR>[Launch Lesson 4](../lessons/loops/loops.md)</TD><TD><B>Code Loops</B><BR> Learn how to use a code loop to perform a repeated action
+</TD>
+</TR>
 
-<img src="../../images/drive_loop.jpg" width=100>[Launch Lesson 5](../lessons/driving_with_loops/driving_with_loops.md) Driving using code loops.  Using loops to drive on a curve and line follow
-
+<TR><TD><img src="../../images/drive_loop.jpg" width=200><BR>[Launch Lesson 5](../lessons/driving_with_loops/driving_with_loops.md)</TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
+</TD>
+</TR>
+</TABLE>
 
 ```
