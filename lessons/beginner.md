@@ -34,23 +34,23 @@ Before you jump into the more advanced training, make sure to complete each of t
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/first.jpg" width=200><BR>[Launch Lesson 1](../lessons/lesson1/lesson1.md)</TD><TD><B>Create Your First Python Program.</B><BR>Using the simulator write a python script to move virtual blocks into scoring areas
+<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../lessons/lesson1/lesson1.md">Launch Lesson 1</A> </TD><TD><B>Create Your First Python Program.</B><BR>Using the simulator write a python script to move virtual blocks into scoring areas
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/speed.jpg" width=200><BR>[Launch Lesson 2](../lessons/drivebase_settings/drivebase_settings.md)</TD><TD><B>Changing Speed Using the Drivebase Settings</B><BR> Use the drivebase settings to change the speed of your robot
+<TR><TD><img src="../../images/speed.jpg" width=200><BR><A HREF="../lessons/drivebase_settings/drivebase_settings.md">Launch Lesson 2</A></TD><TD><B>Changing Speed Using the Drivebase Settings</B><BR> Use the drivebase settings to change the speed of your robot
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/debugging.jpg" width=200><BR>[Launch Lesson 3](../lessons/debugging/debugging.md)</TD><TD><B>Debugging</B><BR> How to debug your python program
+<TR><TD><img src="../../images/debugging.jpg" width=200><BR><A HREF="../lessons/debugging/debugging.md">Launch Lesson 3</A></TD><TD><B>Debugging</B><BR> How to debug your python program
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/loops.jpg" width=200><BR>[Launch Lesson 4](../lessons/loops/loops.md)</TD><TD><B>Code Loops</B><BR> Learn how to use a code loop to perform a repeated action
+<TR><TD><img src="../../images/loops.jpg" width=200><BR><A HREF="../lessons/loops/loops.md">Launch Lesson 4</A></TD><TD><B>Code Loops</B><BR> Learn how to use a code loop to perform a repeated action
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/drive_loop.jpg" width=200><BR>[Launch Lesson 5](../lessons/driving_with_loops/driving_with_loops.md)</TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
+<TR><TD><img src="../../images/drive_loop.jpg" width=200><BR><A HREF="../lessons/driving_with_loops/driving_with_loops.md">Launch Lesson 5</A></TD><TD><B>Driving using code loops</B><BR>  Using loops to drive on a curve and line follow
 </TD>
 </TR>
 </TABLE>
