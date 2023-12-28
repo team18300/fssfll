@@ -104,14 +104,14 @@
         "rotation": [
           0,
           0,
-          0.5
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
         "size": [
           24,
           58,
-          10.1
+          10.2
         ],
         "modelURL": "",
         "modelScale": 10,
