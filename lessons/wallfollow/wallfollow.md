@@ -22,7 +22,7 @@ robot.stop()
 ```
 
 __Example wall following attachment on a virtual EV3 robot:__
-<p  align="center"><img src="../../../images/wallfollow_robot.jpg" width=300></P>
+<p  align="center"><img src="../../../images/wallfollowing_robot.jpg" width=300></P>
 
 # Your Challenge
 Your challenge is to determine how much wall following could help to improve robot consistency and accuracy.  To help you determine this, you are going to solve the Bolton Robotics Bolwing virtual robot game.  In this game, your goal is to create a python program so the robot drives from the launch area, pushes a bowling ball, and knocks over as many bowling pins as possible.  It may not be as simle as it seems!  The virtual robot behaves like a real world EV3 robot and won't do the same thing every time.  
