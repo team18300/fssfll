@@ -22,10 +22,11 @@ robot.stop()
 ```
 
 __Example wall following attachment on a virtual EV3 robot:__
+The wall following attachment which contacts the wall is shown in red.
 <p  align="center"><img src="../../../images/wallfollowing_robot.jpg" width=300></P>
 
 # Your Challenge
-Your challenge is to determine how much wall following could help to improve robot consistency and accuracy.  To help you determine this, you are going to solve the Bolton Robotics Bolwing virtual robot game.  In this game, your goal is to create a python program so the robot drives from the launch area, pushes a bowling ball, and knocks over as many bowling pins as possible.  It may not be as simle as it seems!  The virtual robot behaves like a real world EV3 robot and won't do the same thing every time.  
+Your challenge is to determine how much wall following could help to improve robot consistency and accuracy.  To help you determine this, you are going to solve the Bolton Robotics Bolwing virtual robot game.  In this game, your goal is to create a python program so the robot drives from the launch area, pushes a bowling ball, and knocks over as many bowling pins as possible.  It may not be as simple as it seems!  The virtual robot behaves like a real world EV3 robot and won't do the same thing every time.  
 
 In First Lego League, the game table itself may not be setup the same every time, sometimes the table is not perfectly flat or level.  To help prepare you for this, the middle part of the virtual Bowling alley wobbles!:
 <p  align="center"><img src="../../../images/bowling_game.jpg" width=300></P>
