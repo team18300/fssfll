@@ -34,8 +34,48 @@
           0,
           0.5
         ],
-        "animationMode": "none",
-        "animationKeys": [],
+        "animationMode": "loop",
+        "animationKeys": [
+          {
+            "time": 0,
+            "position": [
+              0,
+              7.35559497725248,
+              5
+            ],
+            "rotation": [
+              0,
+              0,
+              0.5
+            ]
+          },
+          {
+            "time": 3,
+            "position": [
+              0,
+              7.35559497725248,
+              5
+            ],
+            "rotation": [
+              0,
+              0,
+              -0.5
+            ]
+          },
+          {
+            "time": 7,
+            "position": [
+              0,
+              7.35559497725248,
+              5
+            ],
+            "rotation": [
+              0,
+              0,
+              0.5
+            ]
+          }
+        ],
         "size": [
           9,
           84,
