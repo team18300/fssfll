@@ -32,7 +32,7 @@
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -60,7 +60,7 @@
       {
         "type": "sphere",
         "position": [
-          0.3,
+          -0.6,
           -65,
           13
         ],
@@ -140,7 +140,7 @@
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -170,13 +170,13 @@
         "position": [
           -0.5,
           69.6011349923062,
-          15
+          15.008724282510569
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -206,13 +206,13 @@
         "position": [
           -9.212807540927166,
           84,
-          15
+          14.856641673816974
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -242,13 +242,13 @@
         "position": [
           -3.2984705915089494,
           84,
-          15
+          14.959876800696033
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -278,13 +278,13 @@
         "position": [
           2.611489073268046,
           84,
-          15
+          15.06303552179382
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -314,13 +314,13 @@
         "position": [
           8.544226644064473,
           84,
-          15
+          15.166591832687057
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -350,13 +350,13 @@
         "position": [
           5.564790287932162,
           78.7,
-          15
+          15.097895482870959
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -386,13 +386,13 @@
         "position": [
           -0.5,
           78.7,
-          15
+          15.008724282510569
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -422,13 +422,13 @@
         "position": [
           -6.372410785992893,
           78.7,
-          15
+          14.889530880382644
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -458,13 +458,13 @@
         "position": [
           -3.446608537795873,
           74.2,
-          15
+          14.957291043440177
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -494,13 +494,13 @@
         "position": [
           2.4403314126150732,
           74.2,
-          15
+          15.060047953962473
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          0
+          1
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -530,7 +530,7 @@
     "startPosXYZStr": "",
     "startRotStr": "",
     "startPosXYZ": [
-      0,
+      0.3,
       -82,
       10
     ],
