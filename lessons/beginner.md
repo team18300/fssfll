@@ -58,6 +58,10 @@ Before you jump into the more advanced training, make sure to complete each of t
 </TD>
 </TR>
 
+<TR><TD><img src="../../images/wallfollowing_robot.jpg" width=200><BR><A HREF="../wallfollow/wallfollow">Launch Lesson 7</A></TD><TD><B>Wall Following</B><BR>  Learn about how and why to wall follow
+</TD>
+</TR>
+
 </TABLE>
 
 ```
