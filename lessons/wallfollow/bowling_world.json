@@ -37,7 +37,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          11,
+          10,
           84,
           10
         ],
@@ -60,8 +60,8 @@
       {
         "type": "sphere",
         "position": [
-          0,
-          -70,
+          0.3,
+          -65,
           13
         ],
         "rotationMode": "degrees",
