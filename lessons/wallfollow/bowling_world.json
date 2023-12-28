@@ -32,14 +32,14 @@
         "rotation": [
           0,
           0,
-          1
+          0.5
         ],
         "animationMode": "none",
         "animationKeys": [],
         "size": [
           9,
           84,
-          10
+          10.1
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -60,7 +60,7 @@
       {
         "type": "sphere",
         "position": [
-          -0.6,
+          0.3,
           -65,
           13
         ],
@@ -104,14 +104,14 @@
         "rotation": [
           0,
           0,
-          0
+          0.5
         ],
         "animationMode": "none",
         "animationKeys": [],
         "size": [
           24,
           58,
-          10
+          10.1
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -140,7 +140,7 @@
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -170,13 +170,13 @@
         "position": [
           -0.5,
           69.6011349923062,
-          15.008724282510569
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -206,13 +206,13 @@
         "position": [
           -9.212807540927166,
           84,
-          14.856641673816974
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -242,13 +242,13 @@
         "position": [
           -3.2984705915089494,
           84,
-          14.959876800696033
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -278,13 +278,13 @@
         "position": [
           2.611489073268046,
           84,
-          15.06303552179382
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -314,13 +314,13 @@
         "position": [
           8.544226644064473,
           84,
-          15.166591832687057
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -350,13 +350,13 @@
         "position": [
           5.564790287932162,
           78.7,
-          15.097895482870959
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -386,13 +386,13 @@
         "position": [
           -0.5,
           78.7,
-          15.008724282510569
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -422,13 +422,13 @@
         "position": [
           -6.372410785992893,
           78.7,
-          14.889530880382644
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -458,13 +458,13 @@
         "position": [
           -3.446608537795873,
           74.2,
-          14.957291043440177
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -494,13 +494,13 @@
         "position": [
           2.4403314126150732,
           74.2,
-          15.060047953962473
+          15
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
           0,
-          1
+          0
         ],
         "animationMode": "none",
         "animationKeys": [],
@@ -530,7 +530,7 @@
     "startPosXYZStr": "",
     "startRotStr": "",
     "startPosXYZ": [
-      0.3,
+      0,
       -82,
       10
     ],
