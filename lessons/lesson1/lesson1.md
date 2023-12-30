@@ -1,4 +1,7 @@
-# Lesson #1: Create and Simulate Your First Python Program
+---
+title: Getting Started
+subtitle: Create and Simulate Your First Python Program
+---
 
 ### Lesson Plan:
 1. Watch the lesson plan video below
