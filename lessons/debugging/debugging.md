@@ -1,5 +1,7 @@
-# Lesson 4:
-# Debugging Your Code
+---
+title: The robot doesn't work. What now?!? 
+subtitle: How to debug your code
+---
 
 ## Lesson Plan:
 1. Watch the lesson plan video below
