@@ -1,5 +1,7 @@
-# Lesson 3:
-# Changing Speed By Using the Drivebase Settings
+---
+title: Going Faster!
+subtitle: Changing Speed By Using the Drivebase Settings
+---
 
 ## Lesson Plan:
 1. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
