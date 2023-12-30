@@ -1,5 +1,7 @@
-# Lesson 5:
-# Using Loops
+---
+title: Making repeated actions easy!
+subtitle: Introduction to code loops
+---
 
 ## Lesson Plan:
 1. Watch the lesson plan video below
