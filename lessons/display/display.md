@@ -1,3 +1,8 @@
+---
+title: Using the EV3 Display 
+subtitle: How to use the EV3 Display
+---
+
 # Lesson 7:
 # Using the Display
 
