@@ -5,7 +5,7 @@ subtitle: Learn the basics of Visual Studio Code and the Bolton Robotics Base Co
 
 # What is the Bolton Robotics Base Code?
 
-The Bolton Robotics Base Code serves as a streamlined framework, expediting the process for students to initiate and tackle FIRST Lego League Challenges efficiently. Here are some of the great features of the base code.
+The Bolton Robotics Base Code is a set of starter python files that serves as a streamlined framework, expediting the process for students to initiate and tackle FIRST Lego League Challenges efficiently. Here are some of the great features of the base code.
 
 __Foundation for Success:__
 
