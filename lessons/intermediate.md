@@ -18,7 +18,7 @@ You are learning the same programming language as used by professional engineers
 # Gather what you need
 Alright, future robotics champs! Before we dive into these awesome learning modules, let's make sure you've got everything you need. Here's your checklist:
 
-<p  align="center"><img src="../../images/needed_stuff.jpg" width=200><BR>
+<p  align="center"><img src="../../images/needed_stuff.jpg" width=400><BR>
 Figure From [Pybricks Documentation](https://pybricks.com/ev3-micropython/startinstall.html)
 </p>
 
@@ -38,11 +38,11 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  Can skip this if you or a coach have already installed what's needed.
+<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  Can skip this if you or a coach have already installed what's needed.
 </TD>
 </TR>
   
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../ev3_basecode/ev3_basecode">Launch Lesson 2</A> </TD><TD><B>VSC and Bolton Robotics Base Code</B><BR>Learn the basics of Visual Studio Code and the Bolton Robotics Base Code
+<TR><TD><img src="../../images/bolton_robotics_code.jpg" width=200><BR><A HREF="../ev3_basecode/ev3_basecode">Launch Lesson 2</A> </TD><TD><B>VSC and Bolton Robotics Base Code</B><BR>Learn the basics of Visual Studio Code and the Bolton Robotics Base Code
 </TD>
 </TR>
 
