@@ -15,19 +15,19 @@ A series of short training modules lessons below are divided between using a vir
 The intermediate lessons focus on how to get started using Microsoft Visual Studio to program the EV3 with the Bolton Robotics Base Code.  Advanced and expert modules guide students who are interested in advanced techniques like gyro navigation, color sensor calibration, using the EV3 display, and ssh connection to the EV3 robot. 
 
 <TABLE>
-<TR><TD><img src="https://fssfll.github.io/fssfll/images/beginner.jpg" width=250><BR><A HREF="../lessons/beginner/beginner">Beginner Modules</A> </TD><TD><B>Intro to Robot Python Programming</B><BR>Using the simulator to learn about how to use Python programming on a virtual EV3 robot
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/beginner.jpg" width=100><BR><A HREF="https://fssfll.github.io/fssfll/lessons/beginner/beginner">Beginner Modules</A> </TD><TD><B>Intro to Robot Python Programming</B><BR>Using the simulator to learn about how to use Python programming on a virtual EV3 robot
 </TD>
 </TR>
 
-<TR><TD><img src="https://fssfll.github.io/fssfll/images/intermediate.jpg" width=250><BR><A HREF="../lessons/intermediate/intermediate">Intermediate Modules</A> </TD><TD><B>Using Python on the Lego EV3</B><BR>Learn how to use VSC to program the robot
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/intermediate.jpg" width=100><BR><A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/intermediate">Intermediate Modules</A> </TD><TD><B>Using Python on the Lego EV3</B><BR>Learn how to use VSC to program the robot
 </TD>
 </TR>
 
-<TR><TD><img src="https://fssfll.github.io/fssfll/images/advanced.jpg" width=250><BR><A HREF="../lessons/advanced/advanced">Advanced Modules</A> </TD><TD><B>Moving Beyond the Basics</B><BR>Methods, Gyro navigation, and other advanced concepts
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/advanced.jpg" width=100><BR><A HREF="https://fssfll.github.io/fssfll/lessons/advanced/advanced">Advanced Modules</A> </TD><TD><B>Moving Beyond the Basics</B><BR>Methods, Gyro navigation, and other advanced concepts
 </TD>
 </TR>
 
-<TR><TD><img src="https://fssfll.github.io/fssfll/images/expert.jpg" width=250><BR><A HREF="../lessons/expert/expert.md">Expert Modules</A> </TD><TD><B>Mastering Concepts and Techniques</B><BR>...TBD...
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/expert.jpg" width=100><BR><A HREF="https://fssfll.github.io/fssfll/lessons/expert/expert.md">Expert Modules</A> </TD><TD><B>Mastering Concepts and Techniques</B><BR>...TBD...
 </TD>
 </TR>
 
