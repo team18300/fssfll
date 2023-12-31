@@ -46,7 +46,7 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../ev3_customizing/ev3_customizing">Launch Lesson 3</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
+<TR><TD><img src="../../images/ev3_robot.jpg" width=200><BR><A HREF="../ev3_customizing/ev3_customizing">Launch Lesson 3</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
 </TD>
 </TR>
 
