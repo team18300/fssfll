@@ -5,7 +5,7 @@ subtitle: Learn the basics of Visual Studio Code and the Bolton Robotics Base Co
 
 # What is the Bolton Robotics Base Code?
 
-The Bolton Robotics Base Code serves as a streamlined framework, expediting the process for students to initiate and tackle FIRST Lego League Challenges efficiently. Here's how it works:
+The Bolton Robotics Base Code serves as a streamlined framework, expediting the process for students to initiate and tackle FIRST Lego League Challenges efficiently. Here are some of the great features of the base code.
 
 __Foundation for Success:__
 
@@ -18,7 +18,8 @@ By encapsulating key hardware configurations within the robot class, students ca
 __Program Selection Interface:__
 
 A notable feature is the program select menu interface. This user-friendly menu empowers students to choose from a selection of up to 8 programs they've created to address specific challenges. This streamlined interface enhances accessibility and facilitates easy navigation between different solutions.
-Efficient Problem Solving:
+
+__Efficient Problem Solving:__
 
 The overarching goal is to expedite the development cycle. With the base code in place, students can dive straight into coding and problem-solving, leveraging the pre-defined robot class and the intuitive program select menu. This efficiency encourages experimentation and iteration, key elements in mastering Lego League Challenges.
 In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowing students to focus on the creative and problem-solving aspects of FIRST Lego League Challenges without being bogged down by repetitive setup tasks. It's a tool designed to accelerate learning and foster a hands-on, exploratory approach to robotics.
@@ -30,7 +31,7 @@ In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowin
 - Open Visual Studio Code and navigate to the folder where you extracted the Base Code.
 - Open the folder in Visual Studio Code.
 
-# What do the files do?
+# What do the files I downloaded do?
 
 __Code Structure__
 The Bolton Robotics Base Code is composed of different python files which each are responsible for a different function as shown in the graphic below:
