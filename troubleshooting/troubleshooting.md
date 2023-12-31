@@ -8,9 +8,9 @@ subtitle: Common Issues and How to Solve them
 
 **Why doesn't my code run?**
 * There could be a syntax error.  To find syntax errors, it is a good practice to use the "run and debug" operation which can be started in Visual Studio Code by pressing the "F5" key or by using the GUI:
-<p  align="center"><img src="https://fssfll.github.io/fssfll/troubleshooting/run_and_debug.JPG" width=300></P>
+<p  align="center"><img src="https://fssfll.github.io/fssfll/troubleshooting/run_and_debug.JPG" width=600></P>
 * The "OUTPUT" window will display errors in your code.  Usually it is a good idea to start at the bottom of the Traceback messages and work backwards.  Here's an example:
-<p  align="center"><img src="https://fssfll.github.io/fssfll/troubleshooting/syntax_error.JPG" width=300></P>
+<p  align="center"><img src="https://fssfll.github.io/fssfll/troubleshooting/syntax_error.JPG" width=600></P>
 * Remember Python is very picky about indentation.  Code must have the same indentation level, code within a method or while loop must be indented further.
 
 **It takes a long time to connect the USB cable and download code.  How can I speed this up?**
