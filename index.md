@@ -1,36 +1,26 @@
-
 ---
 title: Welcome!
 subtitle: Bolton Robotics First Lego League
 ---
+
 Welcome to the Bolton Robotics Group, where creativity, innovation, and teamwork come together in the exciting world of FIRST LEGO League robotics! Our group supports enthusiastic middle school students who share a passion for robotics and using the LEGO Mindstorms EV3 robot.
 
 On this website, we've gathered a set of resources aimed at helping students and mentors user Pybricks Python to program Lego EV3 robots.   Whether you're a beginner eager to take your first steps in coding or an experienced programmer looking to enhance your skills, our resources are designed to introduce basic concepts, provide tutorials, tips, and real-world examples.
 
 In addition to Pybricks Python resources, we've also gatheter a collection of FIRST LEGO League resources. These materials cover a wide range of topics ensuring that teams are well-prepared for the challenges and excitement that come with participating in FIRST LEGO League competitions.
 
----
-
-A set of short lessons below are divided between using a virtual robot simulator and lessons run on the EV3.
-
-After completing each lesson module, students are expected to share their solutions with mentors to get credit for the lesson before moving to the next module. 
-
-When all the training modules are complete, students can move on to the **Bolton Robotics "Around Bolton" Game**.  In this game you will get to build with legos onto an EV3 basebot and create your own programs!  This is like the official FLL competition in the fall and has a series of fun challenges for you solve in a two minutes and thirty second run.
-
-## Don't Panic!
-Everyone *-including the mentors-* are excited to help each other learn something new!  If you get stuck, please ask for help.  If you figure out how to do something new and amazing, share it with the students & mentors :-)
-
 ## Training Modules
-- __1__ [Create Your First Python Program](./lessons/lesson1/lesson1.md) : Using the simulator write a python script to move virtual blocks into scoring areas
-- __2__ [First Python Program on the EV3](./lesson2/lesson2.md) : Use the EV3 robot write a python script to move blocks into scoring areas
-- __3__ [Changing Speed Using the Drivebase Settings](./lessons/drivebase_settings/drivebase_settings.md) : Use the drivebase settings to change the speed of your robot
-- __4__ [Code Debugging](./lessons/debugging/debugging.md) : How to debug your python program
-- __5__ [Code Loops](./lessons/loops/loops.md) : Learn how to use a code loop to perform a repeated action
-- __6__ [Driving Using Code Loops](./lessons/driving_with_loops/driving_with_loops.md) : Using loops to drive on a curve and line follow
-- __7__ [Using the EV3 display](./lessons/display/display.md) : Learn how to display text on the EV3 display
-- TBD - Using the EV3 buttons to select a python program
+A series of short training modules lessons below are divided between using a virtual robot simulator and lessons run on the EV3.  It is recommended to start with the Beginner training modules which all use the virtual robot and simulator.  These lessons can be completed without any additional apps or EV3 hardware.
+
+The intermediate lessons focus on how to get started using Microsoft Visual Studio to program the EV3 with the Bolton Robotics Base Code.  Advanced and expert modules guide students who are interested in advanced techniques like gyro navigation, color sensor calibration, using the EV3 display, and ssh connection to the EV3 robot. 
+
+- [Beginner](./lessons/beginner/beginner.md) : Using the simulator to learn about how to use Python programming on a virtual EV3 robot
+- [Intermediate](./lessons/intermediate/intermediate.md) : Learn how to use VSC to program the robot
+- Advanced : TBD
+- Expert : TBD
 
 ## Bolton Robotics "Around Bolton" Game
+The Bolton Robotics Around Bolton Game is like a real FLL challenge on a 1/3 size game board.  Students program their EV3 robot to solve missions and collect as many points as possible in a two minute and thirty second match.
 - [Bolton Robotics "Around Bolton" Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
 
 ## Additional How-To's (students are not required to complete this training)
@@ -39,18 +29,6 @@ Everyone *-including the mentors-* are excited to help each other learn somethin
 - [All About the Gyro Sensor](./gyro/gyro.md) : Gyro sensor description, calibration and use.
 - [Rename The EV3](./rename/rename.md) : How to rename the EV3 (this is the name displayed when connecting to the robot in Visual Studio Code)
 - [TroubleShooting Guide](./troubleshooting/troubleshooting.md) : A collection of learnings about what to do when "it doesn't work"
-
-## Base Code Repo For Fall Competition
-Github Repo for Bolton robotics base Python code:
-[https://github.com/fssfll/fll_basecode](https://github.com/fssfll/fll_basecode)
-
-The Bolton Robotics base code provides a generic python project template which may then be customized by the team.  The template creates a robot_name class and uses a constructor to initialize settings and parameters.  It also provides a simple menu to select between five empty mission templates.  
-
-<p align="center">
-<img src="./images/bolton_robotics_code.jpg">
-</P>
-
-
 
 ## More Resources
 * [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
