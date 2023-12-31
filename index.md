@@ -37,12 +37,6 @@ The intermediate lessons focus on how to get started using Microsoft Visual Stud
 The Bolton Robotics Around Bolton Game is like a real FLL challenge on a 1/3 size game board.  Students program their EV3 robot to solve missions and collect as many points as possible in a two minute and thirty second match.
 - [Bolton Robotics "Around Bolton" Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
 
-## Additional How-To's (students are not required to complete this training)
-- [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
-- [Color Sensor Calibration](./calibration/calibration.md) : Color Sensor Calibration Routine for line following
-- [All About the Gyro Sensor](./gyro/gyro.md) : Gyro sensor description, calibration and use.
-- [Rename The EV3](./rename/rename.md) : How to rename the EV3 (this is the name displayed when connecting to the robot in Visual Studio Code)
-- [TroubleShooting Guide](./troubleshooting/troubleshooting.md) : A collection of learnings about what to do when "it doesn't work"
-
 ## More Resources
+* [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
 * [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
