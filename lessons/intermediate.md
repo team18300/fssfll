@@ -50,11 +50,11 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../ev3_first/ev3_first">Launch Lesson 4</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run an the EV3 robot.
+<TR><TD><img src="../../images/first_ev3.jpg" width=200><BR><A HREF="../ev3_first/ev3_first">Launch Lesson 4</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run an the EV3 robot.
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first.jpg" width=200><BR><A HREF="../ev3_debug/ev3_debug">Launch Lesson 5</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
+<TR><TD><img src="../../images/ev3_debug.jpg" width=200><BR><A HREF="../ev3_debug/ev3_debug">Launch Lesson 5</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
 </TD>
 </TR>
 
