@@ -35,7 +35,7 @@ In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowin
 
 __Code Structure__
 The Bolton Robotics Base Code is composed of different python files which each are responsible for a different function as shown in the graphic below:
-<p  align="center"><img src="../../images/bolton_robotics_code.jpg" width=600></p>
+<p  align="center"><img src="../../../images/bolton_robotics_code.jpg" width=600></p>
 
 __main.py__:
 This is the only python file used to run the code (this is the one you would select and run on the EV3).  When starting out, you should not have to modify this module. 
