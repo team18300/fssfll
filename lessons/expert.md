@@ -7,9 +7,9 @@ subtitle: But Wait, There's more!
 
 There's always more to learn!  As an expert, you now have the knowledge and tools to research and create new things on your own.  Maybe you've had an idea for how your robot could move more efficiently or maybe you would like to learn about Computer Aided Design.  There are endless possibilities so pick a topic that interests you and keep learning!    
 
-#Ideas for additional learning:
+<B>Ideas for additional learning:</B>
 - Learn Lego CAD Studio 2.0 and use it to design your robot
 - Create a new method and share it with other teams
 - Learn about the engineering process and use it throughout your FLL season
 - Learn about PID feedback loops and use it to line follow
-- Create new drive methods that smoothly accelerate line robot.straight()
+- Create new drive methods that smoothly accelerates like robot.straight()
