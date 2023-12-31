@@ -22,6 +22,7 @@ The instructions below follow the training video above.
 - Open up Microsoft Visual Studio Code and Load the Bolton Robotics Base Code
 - Select the mission_one.py file
 - Modify the code to make your robot drive straight and then turn.  Make sure keep the same level of indentation:
+
 ```python
 ################################
 # mission_one.py
@@ -47,6 +48,7 @@ def mission_one(r):
     # Turn right 90 degrees
     r.robot.turn(90)
 ```
+
 - Use the EV3DEV device browser to Connect to your robot
 - Select "Run and Debug" and "Start Debugging" to both download and then the bolton robotics base code
 - Use the EV3 buttons to select and run mission 1
