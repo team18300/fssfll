@@ -54,7 +54,7 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/ev3_debug.jpg" width=200><BR><A HREF="../ev3_debug/ev3_debug">Launch Lesson 5</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
+<TR><TD><img src="../../images/ev3_robot.jpg" width=200><BR><A HREF="../../troubleshooting/troubleshooting">Launch Lesson 5</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
 </TD>
 </TR>
 
