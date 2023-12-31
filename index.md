@@ -14,10 +14,24 @@ A series of short training modules lessons below are divided between using a vir
 
 The intermediate lessons focus on how to get started using Microsoft Visual Studio to program the EV3 with the Bolton Robotics Base Code.  Advanced and expert modules guide students who are interested in advanced techniques like gyro navigation, color sensor calibration, using the EV3 display, and ssh connection to the EV3 robot. 
 
-- [Beginner](./lessons/beginner/beginner.md) : Using the simulator to learn about how to use Python programming on a virtual EV3 robot
-- [Intermediate](./lessons/intermediate/intermediate.md) : Learn how to use VSC to program the robot
-- Advanced : TBD
-- Expert : TBD
+<TABLE>
+<TR><TD><img src="../images/beginner.jpg" width=250><BR><A HREF="../beginner/beginner">Beginner Modules</A> </TD><TD><B>Intro to Robot Python Programming</B><BR>Using the simulator to learn about how to use Python programming on a virtual EV3 robot
+</TD>
+</TR>
+
+<TR><TD><img src="../images/intermediate.jpg" width=250><BR><A HREF="../intermediate/intermediate">Intermediate Modules</A> </TD><TD><B>Using Python on the Lego EV3</B><BR>Learn how to use VSC to program the robot
+</TD>
+</TR>
+
+<TR><TD><img src="../images/advanced.jpg" width=250><BR><A HREF="../advanced/advanced">Advanced Modules</A> </TD><TD><B>Moving Beyond the Basics</B><BR>Methods, Gyro navigation, and other advanced concepts
+</TD>
+</TR>
+
+<TR><TD><img src="../images/expert.jpg" width=250><BR><A HREF="../expert/expert">Expert Modules</A> </TD><TD><B>Mastering Concepts and Techniques</B><BR>...TBD...
+</TD>
+</TR>
+
+</TABLE>
 
 ## Bolton Robotics "Around Bolton" Game
 The Bolton Robotics Around Bolton Game is like a real FLL challenge on a 1/3 size game board.  Students program their EV3 robot to solve missions and collect as many points as possible in a two minute and thirty second match.
