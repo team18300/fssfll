@@ -11,6 +11,10 @@ If your robot doesn't match the configuration, you will likely not be able to co
 # Training Video
 First watch the video below which completes all the steps in this training module.
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHKFDaXsVDk?si=dgz-9sqzHqFWsJgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 # Create and Test Your Program
 The instructions below follow the training video above.
