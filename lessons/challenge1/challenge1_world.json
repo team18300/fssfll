@@ -219,7 +219,7 @@
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#80E680",
-        "imageType": "repeat",
+        "imageType": "top",
         "imageURL": "https://fssfll.github.io/fssfll/images/linefollow.jpg",
         "uScale": 1,
         "vScale": 1,
@@ -362,7 +362,7 @@
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
-        "color": "#fff700ff",
+        "color": "#ffffffff",
         "imageType": "cylinder",
         "imageURL": "",
         "uScale": 1,
@@ -414,8 +414,8 @@
       {
         "type": "box",
         "position": [
-          -64.99,
-          -81,
+          -64.98,
+          -83,
           5
         ],
         "rotationMode": "degrees",
@@ -428,8 +428,8 @@
         "animationKeys": [],
         "size": [
           17,
-          30,
-          10.01
+          25,
+          10.02
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -630,29 +630,29 @@
       {
         "type": "box",
         "position": [
-          56.27275536078377,
-          48.96676029732373,
+          56.041712967589966,
+          49.983806059024474,
           5
         ],
         "rotationMode": "degrees",
         "rotation": [
           0,
-          0,
+          -90,
           0
         ],
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          33,
           90,
-          10
+          33,
+          9.99
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#ffffffff",
-        "imageType": "repeat",
-        "imageURL": "",
+        "imageType": "top",
+        "imageURL": "https://fssfll.github.io/fssfll/images/soccer_field.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -982,7 +982,7 @@
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#ffffffff",
-        "imageType": "repeat",
+        "imageType": "top",
         "imageURL": "https://fssfll.github.io/fssfll/images/linefollow.jpg",
         "uScale": 1,
         "vScale": 1,
@@ -1033,8 +1033,8 @@
       {
         "type": "box",
         "position": [
-          -65,
-          -16.402368457206922,
+          -42.60571762291485,
+          -11.36622700002329,
           9.10483161649853
         ],
         "rotationMode": "degrees",
@@ -1164,7 +1164,7 @@
           }
         ],
         "size": [
-          17,
+          14,
           40,
           2
         ],
@@ -1202,14 +1202,14 @@
         "size": [
           17,
           93,
-          10
+          10.01
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#ffffffff",
-        "imageType": "repeat",
-        "imageURL": "",
+        "imageType": "top",
+        "imageURL": "https://fssfll.github.io/fssfll/images/dirtroad.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -1269,7 +1269,7 @@
         "position": [
           -40.94977965399362,
           -62.2248748143033,
-          9
+          10
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -1282,14 +1282,14 @@
         "size": [
           17,
           4,
-          18
+          20
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#750000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -1303,7 +1303,7 @@
       {
         "type": "box",
         "position": [
-          13.7,
+          13.4,
           -11.563722026726781,
           3.5
         ],
@@ -1316,7 +1316,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          19,
+          17,
           20,
           7
         ],
@@ -1419,7 +1419,7 @@
       {
         "type": "box",
         "position": [
-          13.7,
+          13.4,
           -28.461922956196183,
           3.5
         ],
@@ -1432,7 +1432,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          19,
+          17,
           14,
           7
         ],
@@ -1578,14 +1578,14 @@
         "size": [
           45,
           8,
-          14
+          13.99
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#750000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -1635,9 +1635,9 @@
       {
         "type": "box",
         "position": [
-          13.7,
-          -34.8,
-          5
+          -30.337723549758184,
+          -23.37892859293783,
+          17.506
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -1648,16 +1648,16 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          19,
-          8,
-          10.01
+          23,
+          23,
+          1
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#80E680",
         "imageType": "top",
-        "imageURL": "https://fssfll.github.io/fssfll/images/linefollow.jpg",
+        "imageURL": "https://fssfll.github.io/fssfll/images/challenge1_trophy.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -1851,8 +1851,8 @@
       {
         "type": "box",
         "position": [
-          -0.20415114514370325,
-          -17.41723335877694,
+          0.4984651567652967,
+          -17.518868929616097,
           7
         ],
         "rotationMode": "degrees",
@@ -1866,14 +1866,14 @@
         "size": [
           7,
           4,
-          14
+          13.99
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2305,7 +2305,7 @@
         "modelAnimation": "None",
         "color": "#750000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2320,8 +2320,8 @@
         "type": "box",
         "position": [
           -65,
-          -65.93186257757571,
-          5
+          -45,
+          9.51
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -2329,18 +2329,97 @@
           0,
           0
         ],
-        "animationMode": "none",
-        "animationKeys": [],
+        "animationMode": "loop",
+        "animationKeys": [
+          {
+            "time": 0,
+            "position": [
+              -65,
+              -45,
+              9.51
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "time": 11,
+            "position": [
+              -65,
+              -45,
+              9.51
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "time": 12,
+            "position": [
+              -65,
+              -45,
+              9.49
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "time": 16,
+            "position": [
+              -65,
+              -45,
+              9.49
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "time": 17,
+            "position": [
+              -65,
+              -45,
+              9.51
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "time": 29,
+            "position": [
+              -65,
+              -45,
+              9.51
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
         "size": [
-          17,
-          60,
-          10
+          16,
+          4,
+          1
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
-        "color": "#ffffffff",
-        "imageType": "repeat",
+        "color": "#000000ff",
+        "imageType": "top",
         "imageURL": "",
         "uScale": 1,
         "vScale": 1,
@@ -2355,9 +2434,9 @@
       {
         "type": "cylinder",
         "position": [
-          -30.326873981742374,
-          -21.43444686575448,
-          20.505000000000003
+          -29.756006974030715,
+          -21.9312284890215,
+          20.506000518798828
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -2413,7 +2492,7 @@
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2449,7 +2528,7 @@
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2463,8 +2542,8 @@
       {
         "type": "box",
         "position": [
-          1.6852245277309326,
-          -26,
+          2.3830224988059245,
+          -26.09057734484626,
           7
         ],
         "rotationMode": "degrees",
@@ -2485,7 +2564,7 @@
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2499,8 +2578,8 @@
       {
         "type": "box",
         "position": [
-          25.87208491250817,
-          -26,
+          24.497295420691856,
+          -26.08982771156183,
           7
         ],
         "rotationMode": "degrees",
@@ -2521,7 +2600,7 @@
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
-        "imageURL": "",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
         "uScale": 1,
         "vScale": 1,
         "physicsOptions": "fixed",
@@ -2535,8 +2614,8 @@
       {
         "type": "box",
         "position": [
-          27.75229221053304,
-          -17.475416683406507,
+          26.360963032967806,
+          -17.560203475200307,
           7
         ],
         "rotationMode": "degrees",
@@ -2550,13 +2629,121 @@
         "size": [
           7,
           4,
-          14
+          13.99
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
         "color": "#850000ff",
         "imageType": "repeat",
+        "imageURL": "https://fssfll.github.io/fssfll/images/brickwall.jpg",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "fixed",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": false,
+        "castShadows": false,
+        "isPickable": true
+      },
+      {
+        "type": "box",
+        "position": [
+          13.4,
+          -34.8,
+          5
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          17,
+          8,
+          10.01
+        ],
+        "modelURL": "",
+        "modelScale": 10,
+        "modelAnimation": "None",
+        "color": "#80E680",
+        "imageType": "top",
+        "imageURL": "https://fssfll.github.io/fssfll/images/linefollow.jpg",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "fixed",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": false,
+        "castShadows": false,
+        "isPickable": true
+      },
+      {
+        "type": "box",
+        "position": [
+          -64.99,
+          -70,
+          5
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          17,
+          30,
+          10.01
+        ],
+        "modelURL": "",
+        "modelScale": 10,
+        "modelAnimation": "None",
+        "color": "#ffffffff",
+        "imageType": "top",
+        "imageURL": "https://fssfll.github.io/fssfll/images/dirtroad.jpg",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "fixed",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": false,
+        "castShadows": false,
+        "isPickable": true
+      },
+      {
+        "type": "box",
+        "position": [
+          -65,
+          -50.990472495270616,
+          5
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          17,
+          30,
+          10
+        ],
+        "modelURL": "",
+        "modelScale": 10,
+        "modelAnimation": "None",
+        "color": "#ffffffff",
+        "imageType": "top",
         "imageURL": "",
         "uScale": 1,
         "vScale": 1,
