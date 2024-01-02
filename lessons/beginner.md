@@ -61,7 +61,15 @@ Before you jump into the more advanced training, make sure to complete each of t
 <TR><TD><img src="../../images/wallfollowing_robot.jpg" width=200><BR><A HREF="../wallfollow/wallfollow">Launch Lesson 7</A></TD><TD><B>Wall Following</B><BR>  Learn about how and why to wall follow
 </TD>
 </TR>
+</TABLE>
 
+
+
+# Challenge Modules
+<TABLE>
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/challenge1_trophy.jpg" width=200><BR><A HREF="../challenge1/challenge1">Launch Challenge #1</A> </TD><TD><B>Navigate a virtual obstacle course</B><BR>Looking for something signifacantly more challenging?  Put your skills to the test and create a python program to complete the virtual obstacle course.
+</TD>
+</TR>
 </TABLE>
 
 ```
