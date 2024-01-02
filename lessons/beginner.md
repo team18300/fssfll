@@ -67,7 +67,7 @@ Before you jump into the more advanced training, make sure to complete each of t
 
 # Challenge Modules
 <TABLE>
-<TR><TD><img src="https://fssfll.github.io/fssfll/images/challenge1_trophy.jpg" width=200><BR><A HREF="../challenge1/challenge1">Launch Challenge #1</A> </TD><TD><B>Navigate a virtual obstacle course</B><BR>Looking for something signifacantly more challenging?  Put your skills to the test and create a python program to complete the virtual obstacle course.
+<TR><TD><img src="https://fssfll.github.io/fssfll/images/challenge1_trophy.jpg" width=200><BR><A HREF="../challenge1/challenge1">Launch Challenge #1</A> </TD><TD><B>Navigate a virtual obstacle course</B><BR>Looking for something significantly more challenging?  Put your skills to the test and create a python program to complete the virtual obstacle course.
 </TD>
 </TR>
 </TABLE>
